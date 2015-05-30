@@ -5,7 +5,9 @@ Documentation http://www.gurchet-rai.net/dev/yahoo-finance-yql
 
 from __future__ import absolute_import
 
-import pdb
+import datetime
+from datetime import date, timedelta
+
 from myql.myql import MYQL
 
 class StockRetriever(MYQL):
@@ -33,6 +35,13 @@ class StockRetriever(MYQL):
     def get_historical_info(self, symbol,items=None, startDate=None, endDate=None, limit=None, format='json'):
         """get_historical_info() uses the csv datatable to retrieve all available historical data on a typical historical prices page
         """
+        today = date.today()
+        start_date = datetime.date(day=today.day - 7,month=today.month - 1, year=today.year)
+        end_date = datetime.date(day=today.day - 1,month=today.month - 1, year=today.year)
+
+        startDate = startDate if startDate else str(start_date)
+        endDate = endDate if endDate else str(end_date)
+
         response = self.select('yahoo.finance.historicaldata',items,limit).where(['symbol','=',symbol],['startDate','=',startDate],['endDate','=',endDate])
         return response
 

@@ -133,8 +133,9 @@ Same as ***SELECT***, but instead returns data.
 Insert values into a table. Arguments 2 and 3 may be **tuples** or **list**.
 
 ```python
+>>> from myql.utils import pretty_json
 >>> response = yql.insert('yql.storage.admin',('value',),('http://josuebrunel.org',))
->>> response.json() # result prettyfied just for the example
+>>> print(pretty_json(response.content))
 {
     "query": {
         "count": 1,
@@ -155,8 +156,9 @@ Insert values into a table. Arguments 2 and 3 may be **tuples** or **list**.
 Update fields values. This method __is always followed by ***where()***__. Arguments 2 and 3 may be **tuples** or **list**.
 
 ```python
+>>> from myql.utils import pretty_json
 >>> response = yql.update('yql.storage',('value',),('https://josuebrunel.org',)).where(['name','=','store://Rqb5fbQyDvrfHJiClWnZ6q'])
->>> response.json() # result prettyfied just for the example
+>>> print(pretty_json(response.content))
 {
     "query": {
         "count": 1,
@@ -172,8 +174,9 @@ Update fields values. This method __is always followed by ***where()***__. Argum
 ####delete(table).where(filters, ...)
 Delete records
 ```python
+>>> from myql.utils import pretty_json
 >>> response = self.yql.delete('yql.storage').where(['name','=','store://Rqb5fbQyDvrfHJiClWnZ6q'])
->>> response.json() # result prettyfied just for the example
+>>> print(pretty_json(response.content))
 {
     "query": {
         "count": 1,

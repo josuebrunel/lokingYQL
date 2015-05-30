@@ -13,6 +13,14 @@ Yahoo! Query Language Documentation and Support
 -  `Yahoo! Query Language
    Console <https://developer.yahoo.com/yql/console/>`__
 
+Features
+========
+
+* Simple YQL Query 
+* Authenticated YQL Query ( OAuth )
+* StockScraper
+* YQL Open Table (Classes and Metaclasses) Generator 
+
 Installation
 ============
 

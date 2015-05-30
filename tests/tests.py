@@ -36,7 +36,7 @@ def json_get_data(filename):
 
 
 class TestMYQL(unittest.TestCase):
-
+    
     def setUp(self,):
         self.yql = MYQL(format='json',community=True)
         self.insert_result = None
@@ -157,7 +157,6 @@ class TestOAuth(unittest.TestCase):
         teams = ('mlb.l.1328.t.1','mlb.l.1328.t.2')
         year = '2015-05-05'
         for team in teams:
-            #response = yql.rawQuery("SELECT * FROM fantasysports.teams.roster WHERE team_key = '{0}'  AND date = '{1}' ".format(team, year))
             response = yql.select('fantasysports.teams.roster').where(['team_key','=',team],['date','=',year])
             self.assertEqual(response.status_code,200)
             if not response.status_code == 200:
@@ -186,10 +185,15 @@ class TestStockScraper(unittest.TestCase):
         logging.debug(pretty_json(data.content))
         self.assertEqual(data.status_code,200)
 
-    def test_get_historical_info(self,):
+    def test_get_historical_info_with_args(self,):
         data = self.stock.get_historical_info('YHOO',items=['Open','Close','High','Low'], limit=5,startDate='2014-09-11',endDate='2015-02-10')
         logging.debug(pretty_json(data.content))
-        self.assertEqual(data.status_code,200)   
+        self.assertEqual(data.status_code,200) 
+
+    def test_get_historical_info_without_args(self,):
+        data = self.stock.get_historical_info('YHOO')
+        logging.debug(pretty_json(data.content))
+        self.assertEqual(data.status_code,200)
 
     def test_get_options_info(self,):
         data = self.stock.get_options_info('YHOO')
