@@ -1,0 +1,3059 @@
+user:josuebrunel
+1407869378
+:000000 100644 0000000... 51cbe85... A	.gitignore
+:000000 100644 0000000... d7f1051... A	LICENSE
+:000000 100644 0000000... a24409b... A	README.md
+
+user:josuebrunel
+1407869539
+:000000 100644 0000000... e69de29... A	lokingyql/__init__.py
+
+user:josuebrunel
+1407969061
+:000000 100644 0000000... 8f110ba... A	requirements.txt
+
+user:josuebrunel
+1407974646
+:100644 100644 e69de29... 5c9e8e4... M	lokingyql/__init__.py
+:000000 100644 0000000... 21efb34... A	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408048127
+:100644 100644 51cbe85... 27a88a2... M	.gitignore
+:100644 100644 21efb34... 04223dd... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408049999
+:100644 100644 04223dd... c1686a8... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408054470
+:000000 100644 0000000... 6b262f2... A	tests.py
+
+user:josuebrunel
+1408057480
+:100644 100644 c1686a8... bbad973... M	lokingyql/lokingyql.py
+:100644 100644 6b262f2... 3e4fdca... M	tests.py
+
+user:josuebrunel
+1408065572
+:100644 100644 bbad973... 6d1449e... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408191354
+:100644 100644 27a88a2... 0b2ac24... M	.gitignore
+:100644 100644 6d1449e... b9efb49... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408192672
+:100644 100644 b9efb49... 31a38a5... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408196033
+:000000 100644 0000000... bfdc633... A	lokingyql/errors.py
+
+user:josuebrunel
+1408196403
+:100644 100644 5c9e8e4... cb1fb95... M	lokingyql/__init__.py
+
+user:josuebrunel
+1408200473
+:100644 100644 31a38a5... 039b00c... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408212498
+:100644 100644 039b00c... a12ced3... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408212734
+:100644 100644 a12ced3... 93a0544... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408214315
+:100644 100644 93a0544... 8eff44b... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408216114
+:100644 100644 a24409b... 8575677... M	README.md
+
+user:josuebrunel
+1408216497
+:100644 100644 8575677... ce975cc... M	README.md
+
+user:josuebrunel
+1408217587
+:100644 100644 ce975cc... 9abab6e... M	README.md
+:100644 100644 8eff44b... 596551f... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408220154
+:100644 100644 8f110ba... 7f0d28c... M	requirements.txt
+
+user:josuebrunel
+1408272218
+:100644 100644 9abab6e... eb90aa7... M	README.md
+:100644 100644 bfdc633... 76f2483... M	lokingyql/errors.py
+:100644 100644 596551f... 04552b5... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408272487
+:100644 100644 eb90aa7... 817d214... M	README.md
+:100644 100644 04552b5... 3ef87ea... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408272871
+:100644 100644 817d214... 0830609... M	README.md
+:100644 100644 3ef87ea... 8927338... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408272957
+:100644 100644 0830609... 637b549... M	README.md
+
+user:josuebrunel
+1408274656
+:100644 100644 637b549... b629261... M	README.md
+:100644 100644 8927338... 2a42d37... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408277924
+:100644 100644 0b2ac24... 989cbc5... M	.gitignore
+:000000 100644 0000000... 7500556... A	.travis.yml
+
+user:josuebrunel
+1408280563
+:100644 100644 b629261... f27ace0... M	README.md
+:000000 100644 0000000... 6b2ffdf... A	setup.py
+:100644 000000 3e4fdca... 0000000... D	tests.py
+:000000 100644 0000000... 3e4fdca... A	tests/tests.py
+
+user:josuebrunel
+1408284510
+:100644 100644 7500556... c8bbf86... M	.travis.yml
+
+user:josuebrunel
+1408284896
+:100644 100644 6b2ffdf... 44ef379... M	setup.py
+
+user:josuebrunel
+1408304045
+:100644 100644 44ef379... 0a57d8b... M	setup.py
+
+user:josuebrunel
+1408304120
+:100644 100644 c8bbf86... 442b890... M	.travis.yml
+
+user:josuebrunel
+1408304249
+:100644 100644 442b890... e4cc260... M	.travis.yml
+
+user:josuebrunel
+1408304596
+:100644 100644 7f0d28c... 3526ba8... M	requirements.txt
+
+user:josuebrunel
+1408393016
+:000000 100644 0000000... b29b549... A	lokingyql/auth.py
+:100644 100644 2a42d37... 60c13ad... M	lokingyql/lokingyql.py
+:100644 100644 3526ba8... 29a1d4f... M	requirements.txt
+
+user:josuebrunel
+1408421716
+:100644 100644 f27ace0... b877785... M	README.md
+
+user:josuebrunel
+1408475986
+:100644 100644 b29b549... bfd3ae4... M	lokingyql/auth.py
+:000000 100644 0000000... 977bbb5... A	lokingyql/config.py
+:100644 100644 60c13ad... 5d18c9f... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408486603
+:100644 100644 cb1fb95... c9574e6... M	lokingyql/__init__.py
+:100644 100644 5d18c9f... ac4575f... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408487934
+:100644 100644 b877785... 4d36ff1... M	README.md
+
+user:josuebrunel
+1408879936
+:100644 100644 4d36ff1... 6a718f6... M	README.md
+:100644 100644 ac4575f... 903d68e... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1408895745
+:100644 000000 bfd3ae4... 0000000... D	lokingyql/auth.py
+:100644 000000 977bbb5... 0000000... D	lokingyql/config.py
+
+user:josuebrunel
+1408907213
+:100644 100644 6a718f6... 79835ec... M	README.md
+:100644 100644 903d68e... d42d6f7... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1409115515
+:100644 100644 79835ec... e79ca50... M	README.md
+:100644 100644 d42d6f7... 7e14901... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1409116615
+:100644 100644 e79ca50... e760beb... M	README.md
+:100644 100644 7e14901... 924753e... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1409116700
+:100644 100644 e760beb... 211cde7... M	README.md
+
+user:josuebrunel
+1409124518
+:100644 100644 211cde7... 161b028... M	README.md
+
+user:josuebrunel
+1409395998
+:000000 100644 0000000... 3e8bfb7... A	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409405260
+:000000 100644 0000000... dd5565d... A	lokingyql/requirements.txt
+
+user:josuebrunel
+1409407998
+:100644 100644 3e8bfb7... 48c8f46... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409410363
+:100644 100644 48c8f46... 5fc2d02... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409413066
+:100644 100644 5fc2d02... cb472c4... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409413658
+:100644 100644 cb472c4... 13f465e... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409413846
+:100644 100644 13f465e... 59d1720... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409414073
+:100644 100644 59d1720... 5db22eb... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409415058
+:100644 100644 161b028... 0b51c9b... M	README.md
+
+user:josuebrunel
+1409415161
+:100644 100644 0b51c9b... 30174c8... M	README.md
+
+user:josuebrunel
+1409425765
+:000000 100644 0000000... 97cd841... A	lokingyql/config.py
+:000000 100644 0000000... e69de29... A	lokingyql/contrib/__init__.py
+:100644 100644 5db22eb... c18c273... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409427089
+:100644 100644 c18c273... 7e945c5... M	lokingyql/yahooauth.py
+:100644 100644 29a1d4f... dd5565d... M	requirements.txt
+
+user:josuebrunel
+1409600636
+:100644 100644 7e945c5... db77291... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409600849
+:100644 000000 dd5565d... 0000000... D	lokingyql/requirements.txt
+
+user:josuebrunel
+1409605492
+:100644 100644 989cbc5... 25dfc84... M	.gitignore
+:100644 100644 c9574e6... 4261349... M	lokingyql/__init__.py
+:000000 100644 0000000... 1eb8cb8... A	lokingyql/code.png
+:000000 100644 0000000... 7f8aba5... A	lokingyql/grant.png
+:000000 100644 0000000... 3d94f5c... A	lokingyql/readme.md
+:000000 100644 0000000... 3cc9141... A	tests/README.md
+:000000 100644 0000000... 2ee3b3e... A	tests/__init__.py
+:100644 100644 3e4fdca... 5ccbf96... M	tests/tests.py
+
+user:josuebrunel
+1409606798
+:100644 100644 db77291... 6517cbb... M	lokingyql/yahooauth.py
+
+user:josuebrunel
+1409783841
+:100644 100644 e4cc260... b259d01... M	.travis.yml
+
+user:josuebrunel
+1409895709
+:100644 100644 b259d01... d57f3c4... M	.travis.yml
+:100644 100644 76f2483... 8ca3e86... M	lokingyql/errors.py
+:100644 100644 924753e... 8103dca... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1409896246
+:100644 100644 8103dca... 61be15b... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1409896995
+:100644 100644 8ca3e86... 50b537a... M	lokingyql/errors.py
+:100644 100644 61be15b... ff75bd1... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1409939441
+:100644 100644 d57f3c4... 28b6050... M	.travis.yml
+
+user:josuebrunel
+1409944354
+:100644 100644 28b6050... c15d94b... M	.travis.yml
+
+user:josuebrunel
+1409978280
+:100644 100644 ff75bd1... 05bc2a4... M	lokingyql/lokingyql.py
+:100644 100644 3cc9141... 0f81fa2... M	tests/README.md
+:000000 100644 0000000... 5389972... A	tests/test_config.py
+:100644 100644 5ccbf96... fd2ee45... M	tests/tests.py
+
+user:josuebrunel
+1409978556
+:100644 100644 fd2ee45... 39f59f3... M	tests/tests.py
+
+user:josuebrunel
+1409979629
+:100644 100644 39f59f3... d1f8b00... M	tests/tests.py
+
+user:aliounedia
+1410010474
+user:josuebrunel
+1410375499
+:100644 100644 05bc2a4... c0b5f9c... M	lokingyql/lokingyql.py
+:100644 100644 6517cbb... dfe0c74... M	lokingyql/yahooauth.py
+:100644 100644 d1f8b00... 9067d2a... M	tests/tests.py
+
+user:josuebrunel
+1423660206
+:100644 100644 4261349... 7e9a6e7... M	lokingyql/__init__.py
+:100644 000000 1eb8cb8... 0000000... D	lokingyql/code.png
+:100644 000000 97cd841... 0000000... D	lokingyql/config.py
+:100644 100644 e69de29... 8056a4b... M	lokingyql/contrib/__init__.py
+:000000 100644 0000000... 12c6787... A	lokingyql/contrib/yahooauth.py
+:100644 000000 7f8aba5... 0000000... D	lokingyql/grant.png
+:100644 100644 c0b5f9c... cedc638... M	lokingyql/lokingyql.py
+:100644 000000 3d94f5c... 0000000... D	lokingyql/readme.md
+:100644 000000 dfe0c74... 0000000... D	lokingyql/yahooauth.py
+:000000 100644 0000000... f152fd1... A	readme.md
+:000000 100644 0000000... 1eb8cb8... A	static/img/code.png
+:000000 100644 0000000... 7f8aba5... A	static/img/grant.png
+
+user:josuebrunel
+1423663534
+:100644 000000 c15d94b... 0000000... D	.travis.yml
+:000000 100644 0000000... 9d78de9... A	lokingyql/contrib/opentable.py
+
+user:josuebrunel
+1423758959
+:100644 000000 9d78de9... 0000000... D	lokingyql/contrib/opentable.py
+:000000 100644 0000000... 95a4183... A	lokingyql/contrib/opentable/__init__.py
+:000000 100644 0000000... 9d78de9... A	lokingyql/contrib/opentable/opentable.py
+
+user:josuebrunel
+1423760850
+:000000 100644 0000000... e69de29... A	lokingyql/contrib/opentable/data/template.xml
+:000000 100644 0000000... 843a196... A	lokingyql/contrib/opentable/table.py
+
+user:josuebrunel
+1423760868
+:000000 100644 0000000... e69de29... A	lokingyql/db/models.py
+
+user:josuebrunel
+1423760883
+:000000 100644 0000000... e69de29... A	lokingyql/tools/logger.py
+
+user:josuebrunel
+1423830947
+:100644 100644 843a196... 33a0181... M	lokingyql/contrib/opentable/table.py
+
+user:josuebrunel
+1423832261
+:100644 000000 9d78de9... 0000000... D	lokingyql/contrib/opentable/opentable.py
+:100644 000000 33a0181... 0000000... D	lokingyql/contrib/opentable/table.py
+:000000 100644 0000000... b2ca825... A	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1423832711
+:100644 100644 b2ca825... df3956f... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1423834036
+:100644 100644 df3956f... 3610559... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1423835605
+:100644 100644 95a4183... 8073d26... M	lokingyql/contrib/opentable/__init__.py
+:100644 100644 3610559... ff1849a... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1423836019
+:000000 100644 0000000... e69de29... A	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1423836347
+:100644 100644 ff1849a... e4aefca... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1423836383
+:100644 100644 e69de29... bddba6f... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1423840318
+:100644 100644 bddba6f... 08e9e20... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1423844219
+:100644 100644 08e9e20... ffb5ea8... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1423844256
+:000000 100644 0000000... cb8d01e... A	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1423862559
+:100644 000000 cb8d01e... 0000000... D	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1423862883
+:100644 100644 ffb5ea8... 285af53... M	lokingyql/contrib/opentable/binder.py
+:000000 100644 0000000... 2bcf55c... A	lokingyql/contrib/opentable/test.py
+:000000 100644 0000000... 04e8d34... A	lokingyql/myconfig.py
+
+user:josuebrunel
+1424088490
+:100644 100644 e4aefca... 32f4279... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1424090308
+:100644 100644 285af53... 104fca7... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1424091059
+:100644 100644 104fca7... 3aef6cb... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1424163240
+:100644 100644 3aef6cb... 0fa2859... M	lokingyql/contrib/opentable/binder.py
+:100644 100644 2bcf55c... 0b446fc... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1424164184
+:100644 100644 0fa2859... 47e7441... M	lokingyql/contrib/opentable/binder.py
+:000000 100644 0000000... b10e79f... A	lokingyql/contrib/opentable/jscode.js
+:100644 100644 0b446fc... 0bfbf0e... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425052255
+:100644 100644 0bfbf0e... 8694a84... M	lokingyql/contrib/opentable/test.py
+:100644 100644 32f4279... baf4543... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425053681
+:100644 100644 47e7441... 8b45390... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425055961
+:100644 100644 8b45390... 7e259b8... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425055996
+:100644 100644 baf4543... 1e9de4f... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425056021
+:100644 100644 8694a84... 0228fc5... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425056193
+:100644 100644 1e9de4f... f4a1149... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425056207
+:100644 100644 0228fc5... d59871f... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425230056
+:100644 100644 f4a1149... 264088e... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425230076
+:100644 100644 d59871f... 687fec9... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425231061
+:100644 100644 264088e... 7ffb3e5... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425231076
+:100644 100644 687fec9... b4bc190... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425231640
+:100644 100644 7ffb3e5... bca4438... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425231785
+:100644 100644 b4bc190... e96eba9... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425298687
+:100644 100644 e96eba9... 13bd065... M	lokingyql/contrib/opentable/test.py
+:100644 000000 04e8d34... 0000000... D	lokingyql/myconfig.py
+
+user:josuebrunel
+1425363569
+:100644 100644 50b537a... 3c42acc... M	lokingyql/errors.py
+
+user:josuebrunel
+1425363611
+:100644 100644 25dfc84... e49de98... M	.gitignore
+
+user:josuebrunel
+1425363682
+:100644 100644 cedc638... 03c1298... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1425363776
+:100644 100644 9067d2a... 120233f... M	tests/tests.py
+
+user:josuebrunel
+1425363810
+:100644 100644 13bd065... 25967fe... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425385543
+:000000 100755 0000000... 8461da6... A	run_tests.sh
+
+user:josuebrunel
+1425385574
+:000000 100644 0000000... 6959faf... A	lokingyql/contrib/yahooauth/__init__.py
+:000000 100644 0000000... 12c6787... A	lokingyql/contrib/yahooauth/yahooauth.py
+
+user:josuebrunel
+1425385613
+:100644 100644 2ee3b3e... e92dd39... M	tests/__init__.py
+:100644 100644 120233f... 0fc7b92... M	tests/tests.py
+
+user:josuebrunel
+1425385645
+:100644 100644 8056a4b... 18a604b... M	lokingyql/contrib/__init__.py
+:100644 000000 e69de29... 0000000... D	lokingyql/contrib/opentable/data/template.xml
+:100644 000000 12c6787... 0000000... D	lokingyql/contrib/yahooauth.py
+
+user:josuebrunel
+1425387857
+:100755 100755 8461da6... bde282e... M	run_tests.sh
+
+user:josuebrunel
+1425387893
+:100644 100644 03c1298... 63d8400... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1425471779
+:100644 100644 30174c8... a7ac0ef... M	README.md
+
+user:josuebrunel
+1425550593
+:100644 100644 7e259b8... 3e8fc55... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425551575
+:100644 100644 25967fe... 9b88a0b... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425561617
+:100644 100644 9b88a0b... 2bf2b23... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425562208
+:000000 100755 0000000... 63d34e3... A	lokingyql/contrib/opentable/run_test.sh
+
+user:josuebrunel
+1425562257
+:100644 100644 2bf2b23... 9d08b97... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425562452
+:100644 100644 bca4438... 0bf73c4... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425563290
+:100755 100755 63d34e3... 1e7e2d1... M	lokingyql/contrib/opentable/run_test.sh
+
+user:josuebrunel
+1425563465
+:100755 100755 1e7e2d1... a48acda... M	lokingyql/contrib/opentable/run_test.sh
+
+user:josuebrunel
+1425563526
+:100644 100644 9d08b97... 195ce1f... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425563585
+:100644 100644 0fc7b92... bd935ae... M	tests/tests.py
+
+user:josuebrunel
+1425565065
+:000000 100644 0000000... f152fd1... A	lokingyql/contrib/yahooauth/readme.md
+:100644 000000 f152fd1... 0000000... D	readme.md
+
+user:josuebrunel
+1425565316
+:100644 100644 f152fd1... 6d2121b... M	lokingyql/contrib/yahooauth/readme.md
+
+user:josuebrunel
+1425629709
+:100644 100644 195ce1f... bb11db2... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425630112
+:100644 100644 bb11db2... 732ee59... M	lokingyql/contrib/opentable/test.py
+
+user:josuebrunel
+1425984133
+:100644 100755 8073d26... 8073d26... M	lokingyql/contrib/opentable/__init__.py
+:100644 100755 3e8fc55... 3e8fc55... M	lokingyql/contrib/opentable/binder.py
+:100644 100755 b10e79f... b10e79f... M	lokingyql/contrib/opentable/jscode.js
+:100644 000000 732ee59... 0000000... D	lokingyql/contrib/opentable/test.py
+:000000 100755 0000000... 732ee59... A	lokingyql/contrib/opentable/tests.py
+:100644 100755 0bf73c4... 0bf73c4... M	lokingyql/contrib/opentable/yqltable.py
+:100644 000000 e69de29... 0000000... D	lokingyql/tools/logger.py
+:000000 100644 0000000... e69de29... A	lokingyql/utils/logger.py
+
+user:josuebrunel
+1425985065
+:100644 100755 e49de98... e49de98... M	.gitignore
+:100644 100755 d7f1051... d7f1051... M	LICENSE
+:100644 100755 a7ac0ef... a7ac0ef... M	README.md
+:100644 100755 7e9a6e7... 7e9a6e7... M	lokingyql/__init__.py
+:100644 100755 18a604b... 18a604b... M	lokingyql/contrib/__init__.py
+:100644 100755 6959faf... 6959faf... M	lokingyql/contrib/yahooauth/__init__.py
+:100644 100755 6d2121b... 6d2121b... M	lokingyql/contrib/yahooauth/readme.md
+:100644 100755 12c6787... 12c6787... M	lokingyql/contrib/yahooauth/yahooauth.py
+:100644 100755 e69de29... e69de29... M	lokingyql/db/models.py
+:100644 100755 3c42acc... 3c42acc... M	lokingyql/errors.py
+:100644 100755 63d8400... 63d8400... M	lokingyql/lokingyql.py
+:100644 100755 e69de29... e69de29... M	lokingyql/utils/logger.py
+:100644 100755 dd5565d... dd5565d... M	requirements.txt
+:100644 100755 0a57d8b... 0a57d8b... M	setup.py
+:100644 100755 1eb8cb8... 1eb8cb8... M	static/img/code.png
+:100644 100755 7f8aba5... 7f8aba5... M	static/img/grant.png
+:100644 100755 0f81fa2... 0f81fa2... M	tests/README.md
+:100644 100755 e92dd39... e92dd39... M	tests/__init__.py
+:100644 100755 5389972... 5389972... M	tests/test_config.py
+:100644 100755 bd935ae... bd935ae... M	tests/tests.py
+
+user:josuebrunel
+1425985711
+:100755 100755 732ee59... 5aa88d0... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1425988335
+:100755 100755 a48acda... 1e87d60... M	lokingyql/contrib/opentable/run_test.sh
+
+user:josuebrunel
+1425991531
+:100755 100755 3e8fc55... 101aa43... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425991586
+:100755 100755 5aa88d0... 2fc8f53... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1425992402
+:100755 100755 101aa43... 3bf3d31... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425993038
+:100755 100755 b10e79f... f3b503b... M	lokingyql/contrib/opentable/jscode.js
+
+user:josuebrunel
+1425993107
+:100755 100755 3bf3d31... 79917bc... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425995587
+:100755 100755 2fc8f53... 3fe86a7... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1425996426
+:100755 100755 0bf73c4... 1f2e25f... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1425996854
+:100755 100755 79917bc... 7285bf3... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1425998102
+:100755 100755 3fe86a7... f4de7b1... M	lokingyql/contrib/opentable/tests.py
+:000000 100755 0000000... f3b503b... A	lokingyql/contrib/opentable/tests_data/jscode.js
+
+user:josuebrunel
+1425998122
+:100755 000000 f3b503b... 0000000... D	lokingyql/contrib/opentable/jscode.js
+
+user:josuebrunel
+1425998259
+:000000 100644 0000000... e41dfde... A	lokingyql/contrib/opentable/tests_data/after.xml
+:000000 100644 0000000... 535828b... A	lokingyql/contrib/opentable/tests_data/before.xml
+:000000 100644 0000000... ca17498... A	lokingyql/contrib/opentable/tests_data/mytable.xml
+:000000 100644 0000000... 61f4809... A	lokingyql/contrib/opentable/tests_data/titi.xml
+:000000 100644 0000000... 61f4809... A	lokingyql/contrib/opentable/tests_data/toto.xml
+
+user:josuebrunel
+1426087987
+:100644 000000 e41dfde... 0000000... D	lokingyql/contrib/opentable/tests_data/after.xml
+:100644 000000 535828b... 0000000... D	lokingyql/contrib/opentable/tests_data/before.xml
+:100644 000000 ca17498... 0000000... D	lokingyql/contrib/opentable/tests_data/mytable.xml
+:100644 000000 61f4809... 0000000... D	lokingyql/contrib/opentable/tests_data/titi.xml
+:100644 000000 61f4809... 0000000... D	lokingyql/contrib/opentable/tests_data/toto.xml
+
+user:josuebrunel
+1426089108
+:100755 100755 1f2e25f... d4eeaa2... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1426163755
+:100755 100755 f4de7b1... 8781a3e... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426163789
+:100755 100755 7285bf3... 8d792df... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426167367
+:100755 100755 8781a3e... 073bc78... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426167555
+:100755 100755 073bc78... 8dbfd4d... M	lokingyql/contrib/opentable/tests.py
+:100755 100755 d4eeaa2... ef02223... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1426167742
+:100755 100755 8dbfd4d... 57f1cd3... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426168383
+:100755 100755 ef02223... f406163... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1426169573
+:100755 100755 57f1cd3... df9e487... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426185589
+:100755 100755 8d792df... 574d908... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426229670
+:100755 100755 574d908... 7728bc8... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426229714
+:100755 100755 df9e487... 9644236... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426234068
+:100755 100755 7728bc8... 9e226d4... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426234837
+:100755 100755 9644236... 7c73d23... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426234878
+:100755 100755 9e226d4... e52fccf... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426236121
+:100755 100755 e52fccf... b28f533... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426236152
+:100755 100755 8073d26... a887d03... M	lokingyql/contrib/opentable/__init__.py
+
+user:josuebrunel
+1426236495
+:100755 100755 7c73d23... b92fa6f... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426236689
+:100755 100755 b28f533... e282920... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426236774
+:100755 100755 e282920... 26ae052... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426267649
+:100755 100755 26ae052... 5fc300d... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426267681
+:100755 100755 b92fa6f... 16661e0... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426267838
+:100755 100755 16661e0... d4e9cf9... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426268211
+:100755 100755 5fc300d... a156bfc... M	lokingyql/contrib/opentable/binder.py
+:100755 100755 d4e9cf9... 451bdc1... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426268374
+:100755 100755 451bdc1... 88f02e0... M	lokingyql/contrib/opentable/tests.py
+
+user:josuebrunel
+1426269836
+:100755 100755 a156bfc... 449839c... M	lokingyql/contrib/opentable/binder.py
+
+user:josuebrunel
+1426577412
+:100755 100755 f406163... 78490ef... M	lokingyql/contrib/opentable/yqltable.py
+
+user:josuebrunel
+1426579698
+:100755 100755 63d8400... 73e7950... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1426579903
+:100755 100755 73e7950... 85214be... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1426607637
+:100755 100755 a887d03... 99e276c... M	lokingyql/contrib/opentable/__init__.py
+:100755 100755 85214be... 85a38b9... M	lokingyql/lokingyql.py
+
+user:josuebrunel
+1426608279
+:100755 000000 e69de29... 0000000... D	lokingyql/db/models.py
+:100755 000000 e69de29... 0000000... D	lokingyql/utils/logger.py
+
+user:josuebrunel
+1426609422
+:100755 100755 7e9a6e7... 077cb64... M	lokingyql/__init__.py
+:100755 100755 18a604b... b27bbfe... M	lokingyql/contrib/__init__.py
+:100755 000000 99e276c... 0000000... D	lokingyql/contrib/opentable/__init__.py
+:100755 000000 449839c... 0000000... D	lokingyql/contrib/opentable/binder.py
+:100755 000000 1e87d60... 0000000... D	lokingyql/contrib/opentable/run_test.sh
+:100755 000000 88f02e0... 0000000... D	lokingyql/contrib/opentable/tests.py
+:100755 000000 f3b503b... 0000000... D	lokingyql/contrib/opentable/tests_data/jscode.js
+:100755 000000 78490ef... 0000000... D	lokingyql/contrib/opentable/yqltable.py
+:000000 100755 0000000... c6d1c4f... A	lokingyql/contrib/table/__init__.py
+:000000 100755 0000000... 449839c... A	lokingyql/contrib/table/binder.py
+:000000 100755 0000000... 33883f0... A	lokingyql/contrib/table/run_test.sh
+:000000 100755 0000000... 14247d6... A	lokingyql/contrib/table/table.py
+:000000 100755 0000000... 3057cb0... A	lokingyql/contrib/table/tests.py
+:000000 100755 0000000... f3b503b... A	lokingyql/contrib/table/tests_data/jscode.js
+:100755 100755 bd935ae... 1497e2b... M	tests/tests.py
+
+user:josuebrunel
+1427920906
+:100755 100755 0a57d8b... 18d6747... M	setup.py
+
+user:josuebrunel
+1427966816
+:100755 100755 18d6747... 350b4f3... M	setup.py
+
+user:josuebrunel
+1427973582
+:100755 100755 c6d1c4f... ca3c7c4... M	lokingyql/contrib/table/__init__.py
+
+user:josuebrunel
+1428177858
+:100755 100755 449839c... cc24e72... M	lokingyql/contrib/table/binder.py
+:100755 100755 3057cb0... c62038b... M	lokingyql/contrib/table/tests.py
+
+user:josuebrunel
+1428177890
+:100755 100755 cc24e72... b11df58... M	lokingyql/contrib/table/binder.py
+
+user:josuebrunel
+1428178147
+:100755 100755 b11df58... 89d35cb... M	lokingyql/contrib/table/binder.py
+
+user:josuebrunel
+1428190327
+:100755 000000 33883f0... 0000000... D	lokingyql/contrib/table/run_test.sh
+:000000 100755 0000000... 33883f0... A	lokingyql/contrib/table/run_tests.sh
+
+user:josuebrunel
+1428190366
+:100755 100755 c62038b... 34a1264... M	lokingyql/contrib/table/tests.py
+
+user:josuebrunel
+1428230142
+:100755 100755 89d35cb... a024c30... M	lokingyql/contrib/table/binder.py
+
+user:josuebrunel
+1428241204
+:100755 100755 34a1264... 40fcaea... M	lokingyql/contrib/table/tests.py
+
+user:josuebrunel
+1428241843
+:100755 100755 40fcaea... e06f712... M	lokingyql/contrib/table/tests.py
+:100755 100755 bde282e... 38c28c8... M	run_tests.sh
+
+user:josuebrunel
+1428288725
+:100755 100755 a7ac0ef... 4207c0e... M	README.md
+:100755 000000 077cb64... 0000000... D	lokingyql/__init__.py
+:100755 000000 b27bbfe... 0000000... D	lokingyql/contrib/__init__.py
+:100755 000000 ca3c7c4... 0000000... D	lokingyql/contrib/table/__init__.py
+:100755 000000 a024c30... 0000000... D	lokingyql/contrib/table/binder.py
+:100755 000000 33883f0... 0000000... D	lokingyql/contrib/table/run_tests.sh
+:100755 000000 14247d6... 0000000... D	lokingyql/contrib/table/table.py
+:100755 000000 e06f712... 0000000... D	lokingyql/contrib/table/tests.py
+:100755 000000 f3b503b... 0000000... D	lokingyql/contrib/table/tests_data/jscode.js
+:100755 000000 6959faf... 0000000... D	lokingyql/contrib/yahooauth/__init__.py
+:100755 000000 6d2121b... 0000000... D	lokingyql/contrib/yahooauth/readme.md
+:100755 000000 12c6787... 0000000... D	lokingyql/contrib/yahooauth/yahooauth.py
+:100755 000000 3c42acc... 0000000... D	lokingyql/errors.py
+:100755 000000 85a38b9... 0000000... D	lokingyql/lokingyql.py
+:000000 100755 0000000... a1be23e... A	myql/__init__.py
+:000000 100755 0000000... b27bbfe... A	myql/contrib/__init__.py
+:000000 100755 0000000... ca3c7c4... A	myql/contrib/table/__init__.py
+:000000 100755 0000000... a024c30... A	myql/contrib/table/binder.py
+:000000 100755 0000000... 33883f0... A	myql/contrib/table/run_tests.sh
+:000000 100755 0000000... 14247d6... A	myql/contrib/table/table.py
+:000000 100755 0000000... e06f712... A	myql/contrib/table/tests.py
+:000000 100755 0000000... f3b503b... A	myql/contrib/table/tests_data/jscode.js
+:000000 100755 0000000... 6959faf... A	myql/contrib/yahooauth/__init__.py
+:000000 100755 0000000... 6d2121b... A	myql/contrib/yahooauth/readme.md
+:000000 100755 0000000... 12c6787... A	myql/contrib/yahooauth/yahooauth.py
+:000000 100755 0000000... 3c42acc... A	myql/errors.py
+:000000 100755 0000000... ff41911... A	myql/myql.py
+:100755 100755 350b4f3... e307827... M	setup.py
+:100755 100755 1497e2b... 4723e63... M	tests/tests.py
+
+user:josuebrunel
+1428288879
+:100755 100755 4207c0e... b715812... M	README.md
+
+user:josuebrunel
+1428292619
+:100755 100755 e06f712... 24373a8... M	myql/contrib/table/tests.py
+
+user:josuebrunel
+1428292671
+:100755 100755 a024c30... f29afbc... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428296495
+:100755 100755 f29afbc... 04656f3... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428296716
+:100755 100755 14247d6... a98d46b... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428296777
+:100755 100755 04656f3... 63aca03... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428296816
+:100755 100755 a98d46b... 2afd5b6... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428312650
+:100755 100755 24373a8... 199eba0... M	myql/contrib/table/tests.py
+
+user:josuebrunel
+1428312725
+:100755 100755 63aca03... 0734d13... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428313674
+:100755 100755 0734d13... ab7305d... M	myql/contrib/table/binder.py
+:100755 100755 2afd5b6... a786fa5... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428401338
+:100755 100755 e307827... a3931c5... M	setup.py
+
+user:josuebrunel
+1428404897
+:100755 100755 ab7305d... b5a8898... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428404897
+:100755 100755 ab7305d... b5a8898... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428404997
+user:josuebrunel
+1428408756
+:100755 100755 b5a8898... b4ccc2b... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428499400
+:100755 000000 33883f0... 0000000... D	myql/contrib/table/run_tests.sh
+:100755 100755 a786fa5... e4c3846... M	myql/contrib/table/table.py
+:100755 000000 199eba0... 0000000... D	myql/contrib/table/tests.py
+:100755 000000 f3b503b... 0000000... D	myql/contrib/table/tests_data/jscode.js
+:100755 100755 38c28c8... 33883f0... M	run_tests.sh
+:100755 100755 e92dd39... 031965b... M	tests/__init__.py
+:100755 100755 4723e63... 99a9aa2... M	tests/tests.py
+
+user:josuebrunel
+1428499712
+:000000 100755 0000000... f3b503b... A	tests_data/jscode.js
+
+user:josuebrunel
+1428500186
+:000000 100644 0000000... 15176ce... A	.travis.yml
+
+user:josuebrunel
+1428500703
+:100755 100755 b715812... aabceac... M	README.md
+
+user:josuebrunel
+1428504137
+user:josuebrunel
+1428566500
+:100755 100755 e4c3846... 6b34b96... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428567530
+:100755 100755 6b34b96... e58218f... M	myql/contrib/table/table.py
+:100755 100755 99a9aa2... 8678a8a... M	tests/tests.py
+
+user:josuebrunel
+1428596109
+:100755 100755 e58218f... f0e5204... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428679009
+:100755 100755 f0e5204... 22c4986... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428719248
+:100755 100755 22c4986... 6f8d4f1... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428743361
+:100755 100755 b4ccc2b... 5bd0b86... M	myql/contrib/table/binder.py
+:100755 100755 6f8d4f1... 9a29a2f... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428743731
+:000000 100644 0000000... 5592db8... A	myql/contrib/table/base.py
+
+user:josuebrunel
+1428745632
+:100755 100755 5bd0b86... 536a5db... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428747637
+:100644 100644 5592db8... 25c048e... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1428751208
+:100755 100755 536a5db... 07a766e... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1428752774
+:100644 100644 25c048e... bde4f2a... M	myql/contrib/table/base.py
+:100755 100755 9a29a2f... d67a026... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1428872574
+:000000 100644 0000000... f9bd145... A	MANIFEST.in
+
+user:josuebrunel
+1429000209
+:100644 100644 bde4f2a... 952e0ed... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429005388
+:100755 100755 ca3c7c4... 93f0c64... M	myql/contrib/table/__init__.py
+
+user:josuebrunel
+1429006309
+:100755 100755 8678a8a... 8ca697e... M	tests/tests.py
+
+user:josuebrunel
+1429006686
+:100644 100644 952e0ed... c1fd2fd... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429009356
+:100755 100755 07a766e... ed41479... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429009641
+:100644 100644 c1fd2fd... bca2931... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429009656
+:100644 100644 bca2931... 91dc2d4... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429010151
+:100755 100755 ed41479... 5df48de... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429010284
+:100755 100755 5df48de... 2654d93... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429010313
+:100755 100755 2654d93... 9e952bc... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429010361
+:100755 100755 8ca697e... d49a8be... M	tests/tests.py
+
+user:josuebrunel
+1429011619
+:100755 100755 9e952bc... b55f9d7... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429011682
+:100755 100755 b55f9d7... 323d5b4... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429015358
+:100755 100755 d49a8be... 4fa0667... M	tests/tests.py
+
+user:josuebrunel
+1429026573
+:100644 100644 91dc2d4... 77580eb... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429029138
+:100644 100644 77580eb... 2346816... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429029632
+:100755 100755 4fa0667... b9dd7a3... M	tests/tests.py
+
+user:josuebrunel
+1429029657
+:100755 100755 323d5b4... 3002c42... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429029893
+:100755 100755 b9dd7a3... 1f05957... M	tests/tests.py
+
+user:josuebrunel
+1429033198
+:100644 100644 2346816... 2d5400f... M	myql/contrib/table/base.py
+:100755 100755 3002c42... f5b0463... M	myql/contrib/table/binder.py
+:100755 100755 1f05957... b389767... M	tests/tests.py
+
+user:josuebrunel
+1429082787
+:100644 100644 2d5400f... 63193ad... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429083327
+:100755 100755 f5b0463... d100c29... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429092269
+:100644 100644 63193ad... 2c1cf94... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429095764
+:100644 100644 2c1cf94... 4ae4326... M	myql/contrib/table/base.py
+:100755 100755 d100c29... 60b36c2... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429098078
+:100644 100644 4ae4326... 6f59d44... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1429104507
+:100644 100644 6f59d44... e9425a1... M	myql/contrib/table/base.py
+:100755 100755 60b36c2... d88b3df... M	myql/contrib/table/binder.py
+:100755 100755 b389767... b1098e2... M	tests/tests.py
+
+user:josuebrunel
+1429167590
+:100755 100755 b1098e2... 104641c... M	tests/tests.py
+
+user:josuebrunel
+1429167975
+:100755 100755 d88b3df... 9b2a631... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429168083
+:100755 100755 104641c... 21c2232... M	tests/tests.py
+
+user:josuebrunel
+1429168454
+:100755 100755 d67a026... aa866b8... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1429168505
+:000000 100644 0000000... eaeb193... A	myql/contrib/table/example.py
+
+user:josuebrunel
+1429184705
+:100755 100755 9b2a631... 8fcc506... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429244044
+:100755 100755 8fcc506... 0053e83... M	myql/contrib/table/binder.py
+
+user:josuebrunel
+1429244062
+:100755 100755 aa866b8... 6f97510... M	myql/contrib/table/table.py
+
+user:josuebrunel
+1429472779
+:000000 100644 0000000... 1895e6e... A	myql/contrib/yahooauth/auth.py
+
+user:josuebrunel
+1429472901
+:100755 100755 b27bbfe... 4a3d61d... M	myql/contrib/__init__.py
+:100755 100755 12c6787... fd4e18a... M	myql/contrib/yahooauth/yahooauth.py
+:100755 100755 dd5565d... 235213f... M	requirements.txt
+
+user:josuebrunel
+1429473512
+:100644 100644 1895e6e... a08e98c... M	myql/contrib/yahooauth/auth.py
+
+user:josuebrunel
+1429531283
+:100755 100755 4a3d61d... 167809b... M	myql/contrib/__init__.py
+:000000 100755 0000000... 6959faf... A	myql/contrib/auth/__init__.py
+:000000 100644 0000000... a08e98c... A	myql/contrib/auth/auth.py
+:000000 100755 0000000... 6d2121b... A	myql/contrib/auth/readme.md
+:000000 100755 0000000... fd4e18a... A	myql/contrib/auth/yahooauth.py
+:100755 000000 6959faf... 0000000... D	myql/contrib/yahooauth/__init__.py
+:100644 000000 a08e98c... 0000000... D	myql/contrib/yahooauth/auth.py
+:100755 000000 6d2121b... 0000000... D	myql/contrib/yahooauth/readme.md
+:100755 000000 fd4e18a... 0000000... D	myql/contrib/yahooauth/yahooauth.py
+
+user:josuebrunel
+1429535795
+:100644 100644 a08e98c... 318eedc... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429538668
+:100644 100644 318eedc... 3f1751a... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429538930
+:100644 100644 3f1751a... 8f2aa79... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429539451
+:100755 100755 6959faf... 0e8038c... M	myql/contrib/auth/__init__.py
+:100755 000000 fd4e18a... 0000000... D	myql/contrib/auth/yahooauth.py
+
+user:josuebrunel
+1429540141
+:100755 100755 031965b... ecadf74... M	tests/__init__.py
+:100755 100755 21c2232... 1b96dee... M	tests/tests.py
+
+user:josuebrunel
+1429540241
+:100755 100755 ff41911... 6cc7b1e... M	myql/myql.py
+
+user:josuebrunel
+1429540753
+:100755 100755 0e8038c... 05d034a... M	myql/contrib/auth/__init__.py
+
+user:josuebrunel
+1429542492
+:100644 100644 8f2aa79... c8fdafd... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429544068
+:100644 100644 c8fdafd... 00cf96a... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429623563
+:100644 100644 00cf96a... 51f136a... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429623899
+:100755 100755 6cc7b1e... 456242f... M	myql/myql.py
+
+user:josuebrunel
+1429625520
+:100755 100755 456242f... 3aded31... M	myql/myql.py
+
+user:josuebrunel
+1429625578
+:100644 100644 51f136a... c03800c... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429630161
+:100644 100644 c03800c... dd7d49b... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429630196
+:100755 100755 1b96dee... 1988ae4... M	tests/tests.py
+
+user:josuebrunel
+1429717591
+:100644 100644 dd7d49b... c36ebd1... M	myql/contrib/auth/auth.py
+:100755 100755 1988ae4... a231219... M	tests/tests.py
+
+user:josuebrunel
+1429782438
+:100644 100644 c36ebd1... d4815d3... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429783051
+:100644 100644 d4815d3... 61288f7... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429783748
+:100755 100755 6d2121b... 0e8ad1f... M	myql/contrib/auth/readme.md
+
+user:josuebrunel
+1429784769
+:100644 100644 61288f7... 744333f... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429790409
+:100644 100644 744333f... 88cc47f... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429791093
+:100644 100644 88cc47f... c007db6... M	myql/contrib/auth/auth.py
+:100755 100755 3aded31... 74f2a52... M	myql/myql.py
+:100755 000000 5389972... 0000000... D	tests/test_config.py
+:100755 100755 a231219... ba28ac0... M	tests/tests.py
+
+user:josuebrunel
+1429797382
+:100644 100644 c007db6... c8b8f96... M	myql/contrib/auth/auth.py
+:100755 100755 ba28ac0... 05071e6... M	tests/tests.py
+
+user:josuebrunel
+1429802128
+:100755 100755 74f2a52... c4cd250... M	myql/myql.py
+
+user:josuebrunel
+1429850210
+:100755 100755 c4cd250... 3b720ac... M	myql/myql.py
+
+user:josuebrunel
+1429948166
+:100644 100644 c8b8f96... c205f25... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1429949202
+:000000 100644 0000000... da37213... A	myql/contrib/auth/docs/docs/index.md
+:000000 100644 0000000... c97182f... A	myql/contrib/auth/docs/mkdocs.yml
+
+user:josuebrunel
+1429953136
+:100755 100755 e49de98... 27b3734... M	.gitignore
+:000000 100644 0000000... da37213... A	docs/docs/index.md
+:000000 100644 0000000... c97182f... A	docs/mkdocs.yml
+:100644 000000 da37213... 0000000... D	myql/contrib/auth/docs/docs/index.md
+:100644 000000 c97182f... 0000000... D	myql/contrib/auth/docs/mkdocs.yml
+
+user:josuebrunel
+1429953250
+:100755 100755 27b3734... a2063ee... M	.gitignore
+:100755 100755 aabceac... 50bf978... M	README.md
+:000000 100644 0000000... c22556a... A	docs/docs/contrib.md
+:100644 100644 da37213... 4d10f37... M	docs/docs/index.md
+:000000 100644 0000000... ae8381b... A	docs/docs/table.md
+:100644 100644 c97182f... 3bd74ac... M	docs/mkdocs.yml
+
+user:josuebrunel
+1429954879
+:000000 100644 0000000... c22556a... A	docs/contrib.md
+:100644 000000 c22556a... 0000000... D	docs/docs/contrib.md
+:100644 000000 4d10f37... 0000000... D	docs/docs/index.md
+:100644 000000 ae8381b... 0000000... D	docs/docs/table.md
+:000000 100644 0000000... 4d10f37... A	docs/index.md
+:100644 000000 3bd74ac... 0000000... D	docs/mkdocs.yml
+:000000 100644 0000000... ae8381b... A	docs/table.md
+:000000 100644 0000000... 3bd74ac... A	mkdocs.yml
+
+user:josuebrunel
+1429981940
+:100755 100755 50bf978... 20710a3... M	README.md
+
+user:josuebrunel
+1430063293
+:100644 100644 c205f25... 52e9b47... M	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1430135057
+:100755 100755 20710a3... 38ac84e... M	README.md
+
+user:josuebrunel
+1430217518
+:100644 100644 3bd74ac... 43f7214... M	mkdocs.yml
+
+user:josuebrunel
+1430223791
+:100644 100644 ae8381b... 192208b... M	docs/table.md
+:100644 100644 3bd74ac... 43f7214... M	mkdocs.yml
+:000000 100644 0000000... 8b13789... A	myql/contrib/table/exceptions.py
+
+user:josuebrunel
+1430224943
+:100755 100755 38ac84e... 3902f80... M	README.md
+
+user:josuebrunel
+1430228124
+:100644 100644 192208b... 945496e... M	docs/table.md
+:100644 100644 43f7214... 66cd5d6... M	mkdocs.yml
+
+user:josuebrunel
+1430228935
+:100644 100644 945496e... e63cd28... M	docs/table.md
+
+user:josuebrunel
+1430229660
+:100644 100644 e63cd28... f5fcd66... M	docs/table.md
+
+user:josuebrunel
+1430231565
+:100644 100644 4d10f37... 4c7f589... M	docs/index.md
+:100644 100644 f5fcd66... 4ae7641... M	docs/table.md
+:100644 100644 eaeb193... 2fbaa9a... M	myql/contrib/table/example.py
+
+user:josuebrunel
+1430231946
+user:josuebrunel
+1430247628
+:100644 100644 4ae7641... 43cd65f... M	docs/table.md
+
+user:josuebrunel
+1430247641
+user:josuebrunel
+1430508395
+:100755 100755 235213f... a7543ef... M	requirements.txt
+
+user:josuebrunel
+1430594633
+:000000 100644 0000000... d9e840a... A	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430598916
+:100755 100755 05d034a... b653833... M	myql/contrib/auth/__init__.py
+:100644 100644 52e9b47... af33348... M	myql/contrib/auth/auth.py
+:100644 100644 d9e840a... 2e361b2... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430600526
+:000000 100644 0000000... 9291723... A	myql/contrib/auth/credentials.json
+:100644 100644 2e361b2... 4772818... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430600744
+:100755 000000 0e8ad1f... 0000000... D	myql/contrib/auth/readme.md
+:100755 100755 3b720ac... 51c3192... M	myql/myql.py
+:100755 100755 05071e6... 5c8a90c... M	tests/tests.py
+
+user:josuebrunel
+1430601799
+:100644 100644 4772818... 139e328... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430601909
+:100755 100755 51c3192... 960ca7c... M	myql/myql.py
+
+user:josuebrunel
+1430602617
+:100644 100644 139e328... b44ff9d... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430603134
+:100644 000000 9291723... 0000000... D	myql/contrib/auth/credentials.json
+
+user:josuebrunel
+1430603335
+:100644 100644 b44ff9d... bde544a... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430603680
+:100644 100644 bde544a... 638933c... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1430607740
+:100755 100755 3902f80... 85eca8f... M	README.md
+:100644 100644 4c7f589... c60253e... M	docs/index.md
+:000000 100644 0000000... 3f3e39c... A	docs/myql.md
+:000000 100644 0000000... 54e0162... A	docs/oauth.md
+:100644 100644 43cd65f... b62443d... M	docs/table.md
+:100644 100644 43f7214... 88fb5b9... M	mkdocs.yml
+
+user:josuebrunel
+1430625605
+:100755 100755 a2063ee... 49b33e8... M	.gitignore
+
+user:josuebrunel
+1430630448
+:100644 100644 88fb5b9... 2c5b4f5... M	mkdocs.yml
+
+user:josuebrunel
+1430651281
+:100755 100755 85eca8f... 0c5753d... M	README.md
+:100644 100644 c60253e... eb8c93b... M	docs/index.md
+:100644 100644 3f3e39c... 3c82400... M	docs/myql.md
+:100644 100644 54e0162... 7d32c5c... M	docs/oauth.md
+:100644 100644 2c5b4f5... e073cae... M	mkdocs.yml
+
+user:josuebrunel
+1430652653
+:100644 100644 7d32c5c... e5f1afe... M	docs/oauth.md
+
+user:josuebrunel
+1430652679
+:000000 100644 0000000... aac93ff... A	setup.cfg
+:100755 100755 a3931c5... 58eadad... M	setup.py
+
+user:josuebrunel
+1430653878
+:100755 100755 58eadad... f104898... M	setup.py
+
+user:josuebrunel
+1430654610
+:100644 100644 aac93ff... b88034e... M	setup.cfg
+
+user:josuebrunel
+1430655076
+:100755 100755 a7543ef... 235213f... M	requirements.txt
+
+user:josuebrunel
+1430655328
+:100755 100755 235213f... 436a279... M	requirements.txt
+
+user:josuebrunel
+1430656089
+:100755 100755 f104898... ab4d248... M	setup.py
+
+user:josuebrunel
+1430657928
+:000000 100755 0000000... b2d4be2... A	publish_package.sh
+:100755 100755 436a279... 83a959f... M	requirements.txt
+
+user:josuebrunel
+1430658436
+:100755 100755 b2d4be2... daeeaeb... M	publish_package.sh
+
+user:josuebrunel
+1430665426
+:100755 100755 0c5753d... e3f6ddb... M	README.md
+
+user:josuebrunel
+1430665499
+:100755 100755 ab4d248... e83ffb6... M	setup.py
+
+user:The Gitter Badger
+1430812038
+:100755 100755 e3f6ddb... d668328... M	README.md
+
+user:Josue Kouka
+1430814884
+user:josuebrunel
+1430814950
+:100755 100755 d668328... 4904850... M	README.md
+
+user:josuebrunel
+1430839229
+:100755 100755 4904850... e162e6f... M	README.md
+
+user:josuebrunel
+1430893214
+:100755 100755 5c8a90c... a313178... M	tests/tests.py
+
+user:josuebrunel
+1430898939
+:100755 100755 a313178... 52b7b20... M	tests/tests.py
+
+user:josuebrunel
+1430899293
+:100755 100755 52b7b20... 2cda54d... M	tests/tests.py
+
+user:josuebrunel
+1431085696
+:100755 100755 960ca7c... b482ab7... M	myql/myql.py
+
+user:josuebrunel
+1431086510
+:000000 100644 0000000... 20c59e8... A	README.rst
+
+user:josuebrunel
+1431146890
+:100755 100755 83a959f... 710e1aa... M	requirements.txt
+
+user:josuebrunel
+1431151649
+:100755 100755 710e1aa... 3bea596... M	requirements.txt
+
+user:josuebrunel
+1431181242
+:100755 100755 33883f0... 1d47142... M	run_tests.sh
+
+user:josuebrunel
+1431181623
+:100755 100755 e162e6f... 71cc298... M	README.md
+:100644 100644 20c59e8... 34d4e03... M	README.rst
+:100755 100755 e83ffb6... e18420b... M	setup.py
+
+user:josuebrunel
+1431181990
+:100755 100755 71cc298... e29d8ff... M	README.md
+:100644 100644 34d4e03... 916a43f... M	README.rst
+
+user:josuebrunel
+1431182181
+:100755 100755 e18420b... 6f9747a... M	setup.py
+
+user:josuebrunel
+1431182331
+:100644 100644 f9bd145... 8e5e8a9... M	MANIFEST.in
+
+user:josuebrunel
+1431183655
+:100755 100755 6f9747a... 0bd9a59... M	setup.py
+
+user:josuebrunel
+1431185876
+:100755 100755 0bd9a59... 0c1f7e9... M	setup.py
+
+user:josuebrunel
+1431235333
+:100755 100755 e29d8ff... f1feb30... M	README.md
+
+user:josuebrunel
+1431283211
+:000000 100755 0000000... a13921b... A	convert_to_rst.sh
+:100755 100755 0c1f7e9... c2026b5... M	setup.py
+
+user:josuebrunel
+1431295881
+:100755 100755 b482ab7... 764f562... M	myql/myql.py
+:100755 100755 2cda54d... adb4baa... M	tests/tests.py
+
+user:josuebrunel
+1431295906
+:100755 100755 1d47142... 97f7322... M	run_tests.sh
+
+user:josuebrunel
+1431296009
+user:josuebrunel
+1431296077
+user:josuebrunel
+1431296698
+:100755 100755 adb4baa... 672cbfc... M	tests/tests.py
+
+user:josuebrunel
+1431296722
+user:josuebrunel
+1431296973
+:100755 100755 672cbfc... 74e015f... M	tests/tests.py
+
+user:josuebrunel
+1431385088
+:100755 100755 672cbfc... c2b079a... M	tests/tests.py
+
+user:josuebrunel
+1431385413
+:000000 100644 0000000... b2b86eb... A	myql/contrib/stockscraper/__init__.py
+:000000 100644 0000000... 9e341e6... A	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 c2b079a... edd3942... M	tests/tests.py
+
+user:josuebrunel
+1431386264
+:100755 100755 97f7322... 6ff6607... M	run_tests.sh
+
+user:josuebrunel
+1431387030
+:100755 100755 edd3942... b2aa091... M	tests/tests.py
+
+user:josuebrunel
+1431387049
+:100644 100644 9e341e6... bf861cd... M	myql/contrib/stockscraper/stockretriever.py
+
+user:josuebrunel
+1431387643
+:100644 100644 bf861cd... ce12c00... M	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 b2aa091... a6b3bb7... M	tests/tests.py
+
+user:josuebrunel
+1431388001
+:100755 100755 6ff6607... 295a6db... M	run_tests.sh
+
+user:josuebrunel
+1431388513
+:100755 100755 a6b3bb7... d91b615... M	tests/tests.py
+
+user:josuebrunel
+1431388966
+:100755 100755 295a6db... 2180e3b... M	run_tests.sh
+:100755 100755 d91b615... 06d53ee... M	tests/tests.py
+
+user:josuebrunel
+1431409297
+:100755 100755 06d53ee... 2011423... M	tests/tests.py
+
+user:josuebrunel
+1431412855
+:100644 100644 ce12c00... b23f5b9... M	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 764f562... 5ffde1d... M	myql/myql.py
+
+user:josuebrunel
+1431418190
+:100755 100755 ecadf74... bd6d96e... M	tests/__init__.py
+
+user:josuebrunel
+1431419957
+:100755 100755 e29d8ff... b0a3753... M	README.md
+
+user:josuebrunel
+1431421454
+:100755 100755 2011423... 3a5e1d5... M	tests/tests.py
+
+user:josuebrunel
+1431421478
+:100644 100644 b23f5b9... 3174e01... M	myql/contrib/stockscraper/stockretriever.py
+
+user:josuebrunel
+1431422329
+:100644 100644 3174e01... d82efb1... M	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 3a5e1d5... 8bbba91... M	tests/tests.py
+
+user:josuebrunel
+1431422687
+:100755 100755 2180e3b... 5619da3... M	run_tests.sh
+
+user:josuebrunel
+1431423649
+:100755 100755 8bbba91... 55d2218... M	tests/tests.py
+
+user:josuebrunel
+1431423939
+user:josuebrunel
+1431424490
+:100755 100755 b0a3753... a69eb1a... M	README.md
+
+user:josuebrunel
+1431425098
+:100755 100755 55d2218... 3c05580... M	tests/tests.py
+
+user:Josue Kouka
+1431427070
+:100755 100755 9b3f873... 8fce556... M	README.md
+
+user:josuebrunel
+1431436812
+:100755 100755 3c05580... 25aa2e4... M	tests/tests.py
+
+user:josuebrunel
+1431436855
+:100755 100755 5ffde1d... 026787f... M	myql/myql.py
+
+user:josuebrunel
+1431437198
+:100755 100755 25aa2e4... b99376c... M	tests/tests.py
+
+user:josuebrunel
+1431439106
+:100755 100755 b99376c... c8357c3... M	tests/tests.py
+
+user:josuebrunel
+1431439128
+:100755 100755 026787f... b28979b... M	myql/myql.py
+
+user:josuebrunel
+1431440313
+:100755 100755 c8357c3... 130942b... M	tests/tests.py
+
+user:josuebrunel
+1431441020
+:100755 100755 130942b... 92afc55... M	tests/tests.py
+
+user:josuebrunel
+1431441278
+:100755 100755 92afc55... 82da9c2... M	tests/tests.py
+
+user:josuebrunel
+1431441716
+:100755 100755 b28979b... d1978d1... M	myql/myql.py
+
+user:josuebrunel
+1431442978
+:100755 100755 d1978d1... 19a3249... M	myql/myql.py
+
+user:josuebrunel
+1431443099
+:100755 100755 19a3249... 779a9db... M	myql/myql.py
+
+user:josuebrunel
+1431443779
+:100755 100755 a69eb1a... 1ed6f26... M	README.md
+
+user:Josue Kouka
+1431443960
+user:Josue Kouka
+1431511005
+user:Josue Kouka
+1431521880
+user:josuebrunel
+1431611465
+:100755 100755 4e48c15... 1fc5977... M	README.md
+
+user:josuebrunel
+1431612751
+:100755 100755 1fc5977... efcf442... M	README.md
+:100644 100644 eb8c93b... c38b56d... M	docs/index.md
+:100644 100644 3c82400... bcf01ed... M	docs/myql.md
+
+user:josuebrunel
+1431613803
+:100755 100755 0f81fa2... 0741915... M	tests/README.md
+
+user:josuebrunel
+1431613825
+:100644 100644 c22556a... 6dd3676... M	docs/contrib.md
+
+user:Josue Kouka
+1431633613
+user:josuebrunel
+1431680977
+:100755 100755 b653833... 1a7e3eb... M	myql/contrib/auth/__init__.py
+:100644 000000 af33348... 0000000... D	myql/contrib/auth/auth.py
+
+user:josuebrunel
+1431692115
+:100755 100755 efcf442... 45242b0... M	README.md
+:100644 100644 638933c... e4c8cd4... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1431692723
+:100755 100755 d7f1051... c304a72... M	LICENSE
+:100755 100755 c2026b5... 9570705... M	setup.py
+
+user:josuebrunel
+1431694826
+:100644 100644 e4c8cd4... 7134eed... M	myql/contrib/auth/yoauth.py
+
+user:Josue Kouka
+1431694955
+user:josuebrunel
+1431838340
+:100755 100755 82da9c2... dba0075... M	tests/tests.py
+
+user:josuebrunel
+1431838408
+:100755 100755 779a9db... 4114bdc... M	myql/myql.py
+
+user:josuebrunel
+1431839108
+:100755 100755 4114bdc... 7ee47e7... M	myql/myql.py
+
+user:Josue Kouka
+1431894903
+user:josuebrunel
+1431948333
+:100755 100755 45242b0... 12c7e6a... M	README.md
+
+user:josuebrunel
+1431948704
+:100755 100755 12c7e6a... 748aa76... M	README.md
+:100644 100644 916a43f... e08f0aa... M	README.rst
+:100644 100644 c38b56d... 88acbd3... M	docs/index.md
+:100644 100644 bcf01ed... a3c2d1c... M	docs/myql.md
+
+user:josuebrunel
+1431949183
+:100755 100755 7ee47e7... 0688211... M	myql/myql.py
+
+user:Josue Kouka
+1431950665
+user:josuebrunel
+1432022660
+:100755 100755 dba0075... 2a10b25... M	tests/tests.py
+
+user:josuebrunel
+1432022961
+:100644 100644 e9425a1... 4d1ea01... M	myql/contrib/table/base.py
+:100755 100755 6f97510... 2bfd2b8... M	myql/contrib/table/table.py
+:100755 100755 0688211... 9f651d0... M	myql/myql.py
+
+user:josuebrunel
+1432108940
+:100644 100644 a3c2d1c... 3b9593d... M	docs/myql.md
+:000000 100644 0000000... 39211bf... A	docs/stockscraper.md
+:100644 100644 e073cae... f985a4d... M	mkdocs.yml
+
+user:josuebrunel
+1432108969
+user:Josue Kouka
+1432114034
+:100644 100644 e08f0aa... a499054... M	README.rst
+
+user:josuebrunel
+1432114802
+:100644 100644 a499054... 9cfb9cc... M	README.rst
+
+user:josuebrunel
+1432115049
+:100644 100644 9cfb9cc... dc9a05a... M	README.rst
+
+user:josuebrunel
+1432115265
+:100644 100644 dc9a05a... d575e6c... M	README.rst
+:100755 100755 a13921b... bf83bfd... M	convert_to_rst.sh
+
+user:josuebrunel
+1432122832
+:100755 100755 2a10b25... ee22f44... M	tests/tests.py
+
+user:josuebrunel
+1432125514
+:100755 100755 5619da3... 6255020... M	run_tests.sh
+:100755 100755 bd6d96e... b75f261... M	tests/__init__.py
+:100755 100755 ee22f44... a4ec00d... M	tests/tests.py
+
+user:josuebrunel
+1432125568
+:100755 100755 167809b... b0ad4f3... M	myql/contrib/__init__.py
+:100644 100644 b2b86eb... 98ec2e1... M	myql/contrib/stockscraper/__init__.py
+:100644 100644 d82efb1... dde969d... M	myql/contrib/stockscraper/stockretriever.py
+:000000 100644 0000000... f3b503b... A	myql/contrib/table/func.js
+:000000 100644 0000000... dac38a3... A	myql/contrib/table/mytable.py
+:000000 100644 0000000... e69de29... A	myql/contrib/weather/__init__.py
+:000000 100644 0000000... e69de29... A	myql/contrib/weather/weather.py
+
+user:josuebrunel
+1432125628
+:100644 000000 e69de29... 0000000... D	myql/contrib/weather/__init__.py
+:100644 000000 e69de29... 0000000... D	myql/contrib/weather/weather.py
+
+user:josuebrunel
+1432127558
+:100644 100644 39211bf... 2428e34... M	docs/stockscraper.md
+
+user:josuebrunel
+1432129094
+:100644 100644 2428e34... 0df7e06... M	docs/stockscraper.md
+
+user:josuebrunel
+1432130342
+:100644 100644 6dd3676... 9ed6273... M	docs/contrib.md
+
+user:Josue Kouka
+1432133085
+user:josuebrunel
+1432134920
+:100755 100755 6255020... eaa076f... M	run_tests.sh
+:100755 100755 a4ec00d... a7f5ed2... M	tests/tests.py
+
+user:Josue Kouka
+1432155790
+user:josuebrunel
+1432199120
+:100755 100755 eaa076f... 372c181... M	run_tests.sh
+
+user:josuebrunel
+1432199143
+user:josuebrunel
+1432203509
+:100755 100755 9f651d0... f4d6576... M	myql/myql.py
+
+user:josuebrunel
+1432203602
+:100755 100755 a1be23e... 2591317... M	myql/__init__.py
+:000000 100644 0000000... a9083be... A	myql/utils.py
+
+user:josuebrunel
+1432203707
+:100755 100755 bf83bfd... 99b9c58... M	convert_to_rst.sh
+:100755 100755 a7f5ed2... 152c5e7... M	tests/tests.py
+
+user:josuebrunel
+1432208572
+:100755 100755 f4d6576... d18cb0f... M	myql/myql.py
+
+user:josuebrunel
+1432208983
+:100644 100644 d575e6c... 7153a15... M	README.rst
+:100755 100755 d18cb0f... 94b5f18... M	myql/myql.py
+:100755 100755 372c181... 1515e9a... M	run_tests.sh
+
+user:Josue Kouka
+1432210921
+user:Josue Kouka
+1432211975
+user:josuebrunel
+1432212668
+:100755 100755 748aa76... 0c00ed4... M	README.md
+:100644 100644 88acbd3... 54cbbf4... M	docs/index.md
+:100644 100644 f985a4d... 084b09d... M	mkdocs.yml
+:100755 100755 9570705... c3a3914... M	setup.py
+
+user:Josue Kouka
+1432213682
+user:Josue Kouka
+1432217744
+:100755 100755 2591317... d3a4d14... M	myql/__init__.py
+:100755 100755 b0ad4f3... a38209b... M	myql/contrib/__init__.py
+:100755 100755 1a7e3eb... 67e22e7... M	myql/contrib/auth/__init__.py
+:100644 100644 98ec2e1... fa42c42... M	myql/contrib/stockscraper/__init__.py
+:100755 100755 93f0c64... 76d0c5a... M	myql/contrib/table/__init__.py
+:100755 100755 0053e83... daf1619... M	myql/contrib/table/binder.py
+:100755 100755 2bfd2b8... 4a48f43... M	myql/contrib/table/table.py
+:100755 100755 94b5f18... 46c773b... M	myql/myql.py
+:100755 100755 1515e9a... 12495a0... M	run_tests.sh
+:100755 100755 b75f261... 509bd84... M	tests/__init__.py
+:100755 100755 152c5e7... 264eac6... M	tests/tests.py
+
+user:Josue Kouka
+1432262010
+user:josuebrunel
+1432274281
+:100644 100644 a9083be... 013a225... M	myql/utils.py
+
+user:josuebrunel
+1432318223
+:100644 100644 15176ce... 53590c5... M	.travis.yml
+
+user:josuebrunel
+1432319093
+:100755 100755 264eac6... ec7736c... M	tests/tests.py
+
+user:josuebrunel
+1432320059
+:100644 100644 013a225... 77a1639... M	myql/utils.py
+
+user:josuebrunel
+1432320706
+:100755 100755 d3a4d14... debf5a8... M	myql/__init__.py
+:100644 100644 dde969d... 6250363... M	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 46c773b... a3c862d... M	myql/myql.py
+
+user:josuebrunel
+1432320961
+:100644 100644 7134eed... c8d83b2... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1432321678
+:100644 100644 53590c5... 4bd435c... M	.travis.yml
+
+user:josuebrunel
+1432321699
+:100755 100755 3bea596... d3565ac... M	requirements.txt
+
+user:josuebrunel
+1432321730
+:100755 100755 509bd84... af963fb... M	tests/__init__.py
+:100755 100755 ec7736c... 1f81324... M	tests/tests.py
+
+user:josuebrunel
+1432321801
+:100755 100755 c3a3914... ef18dd9... M	setup.py
+
+user:Josue Kouka
+1432324502
+user:Josue Kouka
+1432324825
+user:josuebrunel
+1432327920
+:100644 100644 54cbbf4... 8d4f0cd... M	docs/index.md
+
+user:josuebrunel
+1432352519
+:100755 100755 0c00ed4... 5b76956... M	README.md
+
+user:josuebrunel
+1432352601
+:100755 100755 0c00ed4... b024dd7... M	README.md
+
+user:josuebrunel
+1432352607
+user:josuebrunel
+1432443441
+:100755 100755 ba1fa0a... be8243a... M	README.md
+:100755 100755 1f81324... d7c464c... M	tests/tests.py
+
+user:josuebrunel
+1432443483
+:100644 100644 6250363... 69f281e... M	myql/contrib/stockscraper/stockretriever.py
+
+user:josuebrunel
+1432443931
+:100644 100644 69f281e... f14059e... M	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 d7c464c... 0a27721... M	tests/tests.py
+
+user:josuebrunel
+1432444472
+:100644 100644 0df7e06... 8d89783... M	docs/stockscraper.md
+
+user:josuebrunel
+1432444596
+:100644 100644 4bd435c... 2c8423b... M	.travis.yml
+
+user:josuebrunel
+1432445226
+:100755 100755 d3565ac... 9eaf9e0... M	requirements.txt
+
+user:josuebrunel
+1432445436
+:100755 100755 9eaf9e0... 573ac30... M	requirements.txt
+
+user:Josue Kouka
+1432445965
+user:josuebrunel
+1432446798
+:100755 100755 ef18dd9... b944930... M	setup.py
+
+user:josuebrunel
+1432447387
+:100755 100755 a3c862d... c838051... M	myql/myql.py
+:100755 100755 b944930... 1fda2ef... M	setup.py
+
+user:josuebrunel
+1432447607
+:100755 100755 1fda2ef... 0280cc6... M	setup.py
+
+user:josuebrunel
+1432448457
+:100755 100755 be8243a... ae9d7d6... M	README.md
+
+user:josuebrunel
+1432455278
+:100755 100755 ae9d7d6... 2149e65... M	README.md
+:100644 100644 7153a15... 4f1ad75... M	README.rst
+:100755 100755 0280cc6... 364c47d... M	setup.py
+
+user:Josue Kouka
+1432460393
+user:josuebrunel
+1432461110
+:100755 100755 2149e65... 5c8d941... M	README.md
+:100644 100644 4f1ad75... 3505082... M	README.rst
+:100755 100755 0a27721... 31489a1... M	tests/tests.py
+
+user:josuebrunel
+1432544782
+:100755 100755 c838051... 395c902... M	myql/myql.py
+:100755 100755 364c47d... 4fabd28... M	setup.py
+
+user:josuebrunel
+1432586661
+:100755 100755 395c902... 468bf44... M	myql/myql.py
+
+user:Josue Kouka
+1432587194
+user:josuebrunel
+1432654432
+:100755 100755 ae9d7d6... 524df8d... M	README.md
+
+user:josuebrunel
+1432654652
+user:josuebrunel
+1432654744
+:100755 100755 8ed516c... ef96fec... M	README.md
+
+user:josuebrunel
+1432664329
+:100755 100755 468bf44... 09ee0c4... M	myql/myql.py
+
+user:josuebrunel
+1432664792
+:100755 100755 09ee0c4... 6efdc6c... M	myql/myql.py
+
+user:Josue Kouka
+1432672981
+user:josuebrunel
+1432891306
+:100644 100644 2c8423b... f0e1f12... M	.travis.yml
+
+user:josuebrunel
+1432891396
+:100755 100755 12495a0... 6a80a6f... M	run_tests.sh
+
+user:josuebrunel
+1432894039
+:100644 100644 f0e1f12... f2354b0... M	.travis.yml
+
+user:josuebrunel
+1432894146
+:100644 100644 f2354b0... 1e53777... M	.travis.yml
+
+user:josuebrunel
+1432899301
+:100644 100644 1e53777... 3d0e39b... M	.travis.yml
+:100755 100755 6a80a6f... ad0e997... M	run_tests.sh
+
+user:josuebrunel
+1432899934
+:100755 100755 ad0e997... 7ebe562... M	run_tests.sh
+
+user:Josue Kouka
+1432900686
+user:josuebrunel
+1432949393
+:100755 100755 7ebe562... 82ebe3d... M	run_tests.sh
+
+user:josuebrunel
+1432949425
+:100755 100755 31489a1... 23004e9... M	tests/tests.py
+
+user:josuebrunel
+1432949841
+:100644 100644 f14059e... 5df54bc... M	myql/contrib/stockscraper/stockretriever.py
+
+user:josuebrunel
+1432950024
+:100644 100644 3d0e39b... 40878d1... M	.travis.yml
+
+user:josuebrunel
+1432951559
+:100755 100755 ef96fec... 5f8537f... M	README.md
+:100644 100644 3505082... b51099e... M	README.rst
+
+user:josuebrunel
+1432952001
+:100755 100755 5f8537f... 19c446e... M	README.md
+:100644 100644 8d4f0cd... 2c7f4ba... M	docs/index.md
+
+user:Josue Kouka
+1432952510
+user:Josue Kouka
+1432952850
+user:josuebrunel
+1433038335
+:100755 100755 19c446e... 99a77a8... M	README.md
+
+user:josuebrunel
+1433038342
+user:josuebrunel
+1433038927
+:100755 100755 4fabd28... 0f04982... M	setup.py
+
+user:josuebrunel
+1433039069
+:100755 100755 0f04982... 3d0ecdd... M	setup.py
+
+user:Josue Kouka
+1433040555
+user:josuebrunel
+1433040854
+:100755 100755 99a77a8... d02e46b... M	README.md
+
+user:Josue Kouka
+1433041985
+user:Josue Kouka
+1433042426
+user:josuebrunel
+1433309113
+:100755 100755 d02e46b... 660379b... M	README.md
+
+user:josuebrunel
+1433309241
+:100644 100644 2c7f4ba... f4f8bf9... M	docs/index.md
+
+user:Josue Kouka
+1433310015
+user:Josue Kouka
+1433310061
+user:josuebrunel
+1433315861
+:100755 100755 23004e9... 8fd71f9... M	tests/tests.py
+
+user:josuebrunel
+1433316189
+:100644 100644 c8d83b2... 7d9a011... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1433316329
+:100644 100644 7d9a011... 990ccbb... M	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1433316530
+:100755 100755 6efdc6c... f380b8b... M	myql/myql.py
+
+user:josuebrunel
+1433316559
+:100755 100755 8fd71f9... 363abd0... M	tests/tests.py
+
+user:josuebrunel
+1433319068
+:100755 100755 f380b8b... e18e6b0... M	myql/myql.py
+
+user:josuebrunel
+1433319261
+:100755 100755 660379b... 74d4189... M	README.md
+:100755 100755 363abd0... baa4a66... M	tests/tests.py
+
+user:josuebrunel
+1433321608
+:100644 100644 5df54bc... 7f55edc... M	myql/contrib/stockscraper/stockretriever.py
+
+user:josuebrunel
+1433324678
+:100644 100644 7f55edc... fdf8895... M	myql/contrib/stockscraper/stockretriever.py
+
+user:Josue Kouka
+1433325849
+user:Josue Kouka
+1433327246
+user:josuebrunel
+1433333228
+:100755 100755 74d4189... c7c55a8... M	README.md
+
+user:josuebrunel
+1433333242
+user:josuebrunel
+1433356487
+:000000 100644 0000000... 9f0954a... A	dev_requirements.txt
+
+user:josuebrunel
+1433550740
+:100644 100644 40878d1... 17d723e... M	.travis.yml
+:100755 100755 82ebe3d... 000906d... M	run_tests.sh
+
+user:josuebrunel
+1433554167
+:000000 100644 0000000... 062ed7f... A	credentials.json.enc
+
+user:josuebrunel
+1433554198
+:100644 100644 17d723e... 8d090c3... M	.travis.yml
+:100755 100755 000906d... 65fd2f4... M	run_tests.sh
+
+user:josuebrunel
+1433554223
+:100755 100755 c7c55a8... 6847e48... M	README.md
+
+user:josuebrunel
+1433602316
+:100755 100755 6847e48... 2209fce... M	README.md
+:100644 100644 b51099e... fd727b2... M	README.rst
+
+user:josuebrunel
+1433602482
+:100755 100755 3d0ecdd... 9fed9af... M	setup.py
+
+user:josuebrunel
+1433602615
+:100644 100644 9f0954a... a4e6cc2... M	dev_requirements.txt
+:100755 100755 573ac30... df48804... M	requirements.txt
+
+user:josuebrunel
+1433606855
+:100644 100644 a4e6cc2... f1a29c2... M	dev_requirements.txt
+:100755 100755 df48804... 8331870... M	requirements.txt
+
+user:josuebrunel
+1433607130
+:100755 100755 baa4a66... 50305fc... M	tests/tests.py
+
+user:josuebrunel
+1433607615
+:100755 100755 2209fce... 51211a1... M	README.md
+:100755 100755 e18e6b0... 4185f7e... M	myql/myql.py
+
+user:Josue Kouka
+1433609293
+user:josuebrunel
+1433672311
+:100755 100755 51211a1... 1b341a9... M	README.md
+
+user:josuebrunel
+1433672378
+:100644 100644 f1a29c2... 7937541... M	dev_requirements.txt
+:100755 100755 8331870... 2e7fe64... M	requirements.txt
+
+user:josuebrunel
+1433682527
+:100755 100755 4185f7e... f6e60e0... M	myql/myql.py
+
+user:josuebrunel
+1433683229
+:100644 100644 77a1639... a5b82c7... M	myql/utils.py
+
+user:josuebrunel
+1433683252
+:100755 100755 1b341a9... b9bac95... M	README.md
+:100644 100644 f4f8bf9... c0c9c95... M	docs/index.md
+:100644 100644 e5f1afe... ad2a5c9... M	docs/oauth.md
+:100644 100644 b62443d... 7f0fa9c... M	docs/table.md
+:100644 100644 084b09d... e84cdc5... M	mkdocs.yml
+
+user:josuebrunel
+1433683409
+:100755 100755 a38209b... 532bae6... M	myql/contrib/__init__.py
+:100755 000000 67e22e7... 0000000... D	myql/contrib/auth/__init__.py
+:100644 000000 990ccbb... 0000000... D	myql/contrib/auth/yoauth.py
+
+user:josuebrunel
+1433683827
+:100755 100755 b9bac95... 803774c... M	README.md
+
+user:josuebrunel
+1433684437
+:100755 100755 803774c... e91987e... M	README.md
+
+user:Josue Kouka
+1433686019
+user:Josue Kouka
+1433748468
+user:josuebrunel
+1433759970
+:100755 100755 e91987e... 6bf2df2... M	README.md
+:100644 100644 c0c9c95... 1a7af9c... M	docs/index.md
+
+user:Josue Kouka
+1433761108
+user:josuebrunel
+1433791397
+:000000 100644 0000000... 33b21e0... A	.coveragerc
+:100644 100644 8d090c3... 5ff00c7... M	.travis.yml
+:100755 100755 6bf2df2... f15a20a... M	README.md
+:100755 100755 9fed9af... 5e38a8b... M	setup.py
+
+user:josuebrunel
+1433792122
+:100644 100644 5ff00c7... 0680d61... M	.travis.yml
+
+user:josuebrunel
+1433792647
+:100755 100755 f15a20a... f1fc012... M	README.md
+
+user:Josue Kouka
+1433793278
+user:josuebrunel
+1433793654
+:100644 000000 2fbaa9a... 0000000... D	myql/contrib/table/example.py
+:100644 000000 dac38a3... 0000000... D	myql/contrib/table/mytable.py
+
+user:josuebrunel
+1433818101
+:100644 100644 7937541... f087e44... M	dev_requirements.txt
+:100644 100644 a5b82c7... 6df9a45... M	myql/utils.py
+
+user:josuebrunel
+1433818595
+:100755 100755 50305fc... 70f18be... M	tests/tests.py
+
+user:josuebrunel
+1433819133
+:100755 100755 70f18be... 3d16d19... M	tests/tests.py
+
+user:josuebrunel
+1433819376
+:100755 100755 3c42acc... fd32288... M	myql/errors.py
+
+user:josuebrunel
+1433819681
+:100644 100644 0680d61... 2c91b44... M	.travis.yml
+
+user:Josue Kouka
+1433820568
+user:josuebrunel
+1433825423
+:100755 100755 f1fc012... 9d966dd... M	README.md
+:100755 100755 5e38a8b... 362dbc8... M	setup.py
+
+user:Josue Kouka
+1433825823
+user:josuebrunel
+1433914953
+:100755 100755 9d966dd... 44f3bc6... M	README.md
+:100644 100644 8d89783... 488d12e... M	docs/stockscraper.md
+
+user:josuebrunel
+1433915014
+:100755 100755 44f3bc6... 08abf6d... M	README.md
+
+user:Josue Kouka
+1433915768
+user:josuebrunel
+1434080333
+:100644 100644 f087e44... b89d456... M	dev_requirements.txt
+
+user:josuebrunel
+1434080467
+:100644 100644 b89d456... a557ba1... M	dev_requirements.txt
+
+user:josuebrunel
+1434081020
+:100755 100755 532bae6... cb782df... M	myql/contrib/__init__.py
+:000000 100644 0000000... 763f32b... A	myql/contrib/finance/__init__.py
+:000000 100644 0000000... f774907... A	myql/contrib/finance/stockscraper/__init__.py
+:000000 100644 0000000... fdf8895... A	myql/contrib/finance/stockscraper/stockretriever.py
+:100644 000000 fa42c42... 0000000... D	myql/contrib/stockscraper/__init__.py
+:100644 000000 fdf8895... 0000000... D	myql/contrib/stockscraper/stockretriever.py
+:100755 100755 3d16d19... d75a0a0... M	tests/tests.py
+
+user:josuebrunel
+1434148448
+:100644 100644 fdf8895... 2608f8d... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 d75a0a0... 14fd5b4... M	tests/tests.py
+
+user:josuebrunel
+1434150895
+:100644 100644 2608f8d... 22106e9... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 14fd5b4... 6d77ace... M	tests/tests.py
+
+user:Josue Kouka
+1434151616
+user:josuebrunel
+1434288181
+:100644 100644 33b21e0... 88ee395... M	.coveragerc
+
+user:josuebrunel
+1434288384
+:100644 100644 22106e9... 0dab9bf... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 f6e60e0... e95ca2d... M	myql/myql.py
+
+user:Josue Kouka
+1434290559
+user:josuebrunel
+1434290939
+:100644 100644 0dab9bf... 6e0619c... M	myql/contrib/finance/stockscraper/stockretriever.py
+
+user:josuebrunel
+1434291071
+:100755 100755 08abf6d... 4c8443c... M	README.md
+
+user:josuebrunel
+1434291444
+:100755 100755 e95ca2d... da60957... M	myql/myql.py
+
+user:josuebrunel
+1434291968
+:100644 100644 4d1ea01... 4bcb8e5... M	myql/contrib/table/base.py
+:100755 100755 da60957... ef652e6... M	myql/myql.py
+
+user:josuebrunel
+1434427905
+:100755 100755 af963fb... 281ee45... M	tests/__init__.py
+:100755 100755 6d77ace... 9a878e8... M	tests/tests.py
+
+user:josuebrunel
+1434427936
+:100755 100755 cb782df... 7a36d06... M	myql/contrib/__init__.py
+:000000 100644 0000000... afdd8f4... A	myql/contrib/weather/__init__.py
+:000000 100644 0000000... 848dc70... A	myql/contrib/weather/weather.py
+
+user:josuebrunel
+1434429294
+:100755 100755 9a878e8... f38484c... M	tests/tests.py
+
+user:josuebrunel
+1434429319
+:100644 100644 848dc70... 249c513... M	myql/contrib/weather/weather.py
+
+user:josuebrunel
+1434430011
+:100644 100644 249c513... ae66e1d... M	myql/contrib/weather/weather.py
+:100755 100755 f38484c... ddbf895... M	tests/tests.py
+
+user:josuebrunel
+1434432564
+:100644 100644 ae66e1d... 41774ff... M	myql/contrib/weather/weather.py
+:100755 100755 ddbf895... 233d325... M	tests/tests.py
+
+user:josuebrunel
+1434433566
+:100644 100644 41774ff... 38961e0... M	myql/contrib/weather/weather.py
+:100755 100755 233d325... 03cc841... M	tests/tests.py
+
+user:josuebrunel
+1434434220
+:100644 100644 6e0619c... d9beaf7... M	myql/contrib/finance/stockscraper/stockretriever.py
+
+user:josuebrunel
+1434435053
+:100755 100755 ef652e6... bffe01c... M	myql/myql.py
+
+user:josuebrunel
+1434435906
+:100755 100755 fd32288... 92258e5... M	myql/errors.py
+:100755 100755 bffe01c... 165b6e6... M	myql/myql.py
+
+user:josuebrunel
+1434437051
+:100644 100644 d9beaf7... 2d4f49e... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100644 100644 4bcb8e5... d04ebff... M	myql/contrib/table/base.py
+:100755 100755 daf1619... cc5e251... M	myql/contrib/table/binder.py
+:100755 100755 4a48f43... 679a07f... M	myql/contrib/table/table.py
+:100755 100755 165b6e6... a08e49e... M	myql/myql.py
+:100644 100644 6df9a45... 18c9bb5... M	myql/utils.py
+
+user:josuebrunel
+1434437407
+:100644 100644 2d4f49e... e2cf12e... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 cc5e251... f49facf... M	myql/contrib/table/binder.py
+:100755 100755 679a07f... 45671b9... M	myql/contrib/table/table.py
+
+user:Josue Kouka
+1434439078
+user:josuebrunel
+1434608589
+:100644 100644 e2cf12e... fdf5d2f... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 03cc841... 87ccb0b... M	tests/tests.py
+
+user:josuebrunel
+1434611825
+:100644 100644 488d12e... 8bea0af... M	docs/stockscraper.md
+:100644 100644 e84cdc5... 83ef098... M	mkdocs.yml
+:100755 100755 a08e49e... fc37b68... M	myql/myql.py
+
+user:Josue Kouka
+1434612870
+user:josuebrunel
+1435350727
+:100644 100644 fdf5d2f... e64735b... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 fc37b68... 6c83af6... M	myql/myql.py
+:100755 100755 87ccb0b... c55d9f1... M	tests/tests.py
+
+user:josuebrunel
+1435352264
+:100644 100644 e64735b... 222abea... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 c55d9f1... a2909a8... M	tests/tests.py
+
+user:josuebrunel
+1435352415
+:100644 100644 38961e0... 0c7fce8... M	myql/contrib/weather/weather.py
+
+user:Josue Kouka
+1435377560
+user:josuebrunel
+1435413084
+:100644 100644 8bea0af... a326af0... M	docs/stockscraper.md
+:100644 100644 222abea... 3069a07... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 a2909a8... ff37c90... M	tests/tests.py
+
+user:josuebrunel
+1435413102
+:100755 100755 65fd2f4... 91aaf45... M	run_tests.sh
+
+user:Josue Kouka
+1435415400
+user:josuebrunel
+1435678981
+:100755 100755 ff37c90... 3e20d31... M	tests/tests.py
+
+user:josuebrunel
+1435679016
+:100644 100644 3069a07... 2f0f4a5... M	myql/contrib/finance/stockscraper/stockretriever.py
+
+user:josuebrunel
+1435680381
+:100755 100755 6c83af6... 8ca0d96... M	myql/myql.py
+
+user:Josue Kouka
+1435698790
+user:josuebrunel
+1436132977
+:100755 100755 91aaf45... 0175f75... M	run_tests.sh
+
+user:josuebrunel
+1436133032
+:100644 100644 d04ebff... cd7e99e... M	myql/contrib/table/base.py
+
+user:josuebrunel
+1436133093
+:100755 100755 8ca0d96... 4a64547... M	myql/myql.py
+
+user:Josue Kouka
+1436134037
+user:josuebrunel
+1436341117
+:100755 100755 4c8443c... b7fc40f... M	README.md
+
+user:josuebrunel
+1436341234
+:100644 100644 18c9bb5... 0732be8... M	myql/utils.py
+
+user:josuebrunel
+1436345214
+:000000 100644 0000000... efef5c5... A	docs/weather.md
+:100644 100644 83ef098... 914563d... M	mkdocs.yml
+
+user:josuebrunel
+1436346119
+:100644 100644 2f0f4a5... 47eeb46... M	myql/contrib/finance/stockscraper/stockretriever.py
+:100755 100755 3e20d31... 69a4bc2... M	tests/tests.py
+
+user:josuebrunel
+1436346135
+:100755 100755 362dbc8... f957bcf... M	setup.py
+
+user:josuebrunel
+1436346544
+:100644 100644 a326af0... bcf96af... M	docs/stockscraper.md
+:100644 100644 efef5c5... 2c0dd81... M	docs/weather.md
+
+user:Josue Kouka
+1436347476
+user:Josue Kouka
+1436348694
+user:josuebrunel
+1436360277
+:100644 100644 914563d... 3f2f882... M	mkdocs.yml
+
+user:josuebrunel
+1436360288
+user:josuebrunel
+1436430781
+:100644 100644 9ed6273... d6301c7... M	docs/contrib.md
+:100644 100644 7f0fa9c... 85be75a... M	docs/table.md
+:100644 100644 2c0dd81... b0fb3f3... M	docs/weather.md
+
+user:josuebrunel
+1436474868
+:100755 100755 debf5a8... db4aa67... M	myql/__init__.py
+
+user:Josue Kouka
+1436476268
+user:josuebrunel
+1437238188
+:100755 100755 f957bcf... a292fdd... M	setup.py
+
+user:Josue Kouka
+1437989723
+:100755 100755 4a64547... 156e5ca... M	myql/myql.py
+
+user:Josue Kouka
+1438335833
+:100755 100755 db4aa67... 83e490c... M	myql/__init__.py
+:100755 100755 f957bcf... 42c437a... M	setup.py
+
+user:Josue Kouka
+1438336189
+:100755 100755 4a64547... fdba9b5... M	myql/myql.py
+
+user:Josue Kouka
+1438363779
+:100644 100644 a557ba1... 2675f56... M	dev_requirements.txt
+
+user:Josue Kouka
+1438425303
+:100755 100755 281ee45... afef996... M	tests/__init__.py
+:100755 100755 69a4bc2... 8a63a41... M	tests/tests.py
+
+user:Josue Kouka
+1438425408
+:100755 100755 69a4bc2... 8b2993c... M	tests/tests.py
+
+user:Josue Kouka
+1438425493
+user:Josue Kouka
+1438429944
+:100644 100644 88ee395... 5417ab2... M	.coveragerc
+
+user:Josue Kouka
+1438580607
+:100755 100755 50c3577... 0703f7d... M	myql/myql.py
+
+user:Josue Kouka
+1438580731
+:100755 100755 777a9be... 7579ed7... M	tests/tests.py
+
+user:Josue Kouka
+1438590077
+:100755 100755 0703f7d... 6c795a4... M	myql/myql.py
+
+user:Josue Kouka
+1438595177
+:100755 100755 6c795a4... f74db54... M	myql/myql.py
+
+user:Josue Kouka
+1438595663
+:100755 100755 f74db54... b50d888... M	myql/myql.py
+
+user:Josue Kouka
+1438596403
+:100755 100755 7579ed7... bf11f5a... M	tests/tests.py
+
+user:Josue Kouka
+1438596908
+:100755 100755 bf11f5a... a1d3099... M	tests/tests.py
+
+user:Josue Kouka
+1438598952
+:100755 100755 b50d888... 3c2cb79... M	myql/myql.py
+
+user:Josue Kouka
+1438601394
+user:Josue Kouka
+1438602485
+:100755 100755 2e7fe64... 7e2f96e... M	requirements.txt
+:100755 100755 42c437a... 1057c89... M	setup.py
+
+user:Josue Kouka
+1439388915
+:100755 100755 a1d3099... 0a42ed1... M	tests/tests.py
+
+user:Josue Kouka
+1439390981
+:100755 100755 3c2cb79... e3ecb4c... M	myql/myql.py
+:100755 100755 afef996... f44095e... M	tests/__init__.py
+:100755 100755 0a42ed1... 27c93a5... M	tests/tests.py
+
+user:Josue Kouka
+1439391285
+:100755 100755 27c93a5... c129bcb... M	tests/tests.py
+
+user:Josue Kouka
+1439442151
+:100644 100644 2c91b44... 318b0fa... M	.travis.yml
+
+user:Josue Kouka
+1439448655
+:100644 100644 2c91b44... 318b0fa... M	.travis.yml
+
+user:Josue Kouka
+1439490344
+user:Josue Kouka
+1439557470
+:100755 100755 e3ecb4c... d5f6b69... M	myql/myql.py
+:100755 100755 c129bcb... 5345652... M	tests/tests.py
+
+user:Josue Kouka
+1439558245
+:100755 100755 5345652... 11a13d3... M	tests/tests.py
+
+user:Josue Kouka
+1439559100
+:100755 100755 11a13d3... 8a98faa... M	tests/tests.py
+
+user:Josue Kouka
+1439559673
+:100755 100755 d5f6b69... 7008797... M	myql/myql.py
+:100755 100755 8a98faa... addb03b... M	tests/tests.py
+
+user:Josue Kouka
+1439561022
+:100755 100755 addb03b... df5fd70... M	tests/tests.py
+
+user:Josue Kouka
+1439567960
+user:Josue Kouka
+1439573243
+:100755 100755 df5fd70... b750c41... M	tests/tests.py
+
+user:Josue Kouka
+1439576312
+:100755 100755 7008797... 271f158... M	myql/myql.py
+:100755 100755 b750c41... e449d86... M	tests/tests.py
+
+user:Josue Kouka
+1439578657
+:100755 100755 f44095e... 2295300... M	tests/__init__.py
+:100755 100755 e449d86... 57e47fa... M	tests/tests.py
+
+user:Josue Kouka
+1439579944
+:100755 100755 271f158... 1cdb8a2... M	myql/myql.py
+:100755 100755 2295300... ce0d9bb... M	tests/__init__.py
+:100755 100755 57e47fa... f84f421... M	tests/tests.py
+
+user:Josue Kouka
+1439580455
+:100755 100755 1cdb8a2... bb67059... M	myql/myql.py
+:100755 100755 f84f421... 727086a... M	tests/tests.py
+
+user:Josue Kouka
+1439580626
+:100755 100755 bb67059... b293cc3... M	myql/myql.py
+:100755 100755 727086a... c7e2231... M	tests/tests.py
+
+user:Josue Kouka
+1439619071
+:100755 100755 b293cc3... 40c37f3... M	myql/myql.py
+:100755 100755 ce0d9bb... 098093e... M	tests/__init__.py
+:100755 100755 c7e2231... fff7058... M	tests/tests.py
+
+user:Josue Kouka
+1439619679
+:100755 100755 40c37f3... d0f8759... M	myql/myql.py
+:100755 100755 fff7058... 3fe9b74... M	tests/tests.py
+
+user:Josue Kouka
+1439631003
+:100755 100755 d0f8759... 394bbd9... M	myql/myql.py
+
+user:Josue Kouka
+1439631388
+:100755 100755 394bbd9... d1a388e... M	myql/myql.py
+
+user:Josue Kouka
+1439657777
+:100755 100755 3fe9b74... 09f6c4a... M	tests/tests.py
+
+user:Josue Kouka
+1439727449
+:100755 100755 d1a388e... 9a51cdf... M	myql/myql.py
+:100755 100755 098093e... 283872c... M	tests/__init__.py
+:100755 100755 09f6c4a... 6d5f772... M	tests/tests.py
+
+user:Josue Kouka
+1439729402
+:100755 100755 9a51cdf... 6fba0ea... M	myql/myql.py
+
+user:Josue Kouka
+1439732625
+:100755 100755 6fba0ea... 286ea37... M	myql/myql.py
+:100755 100755 6d5f772... e8dfb60... M	tests/tests.py
+
+user:Josue Kouka
+1439733796
+:100755 100755 286ea37... eb0cc96... M	myql/myql.py
+:100755 100755 e8dfb60... c27f160... M	tests/tests.py
+
+user:Josue Kouka
+1439733871
+:100755 100755 c27f160... 92a01e2... M	tests/tests.py
+
+user:Josue Kouka
+1439738850
+:100755 100755 eb0cc96... faa8ddb... M	myql/myql.py
+
+user:Josue Kouka
+1439813725
+:100755 100755 faa8ddb... af6792a... M	myql/myql.py
+
+user:Josue Kouka
+1439842419
+:100755 100755 92a01e2... c324c7a... M	tests/tests.py
+
+user:Josue Kouka
+1439842589
+user:Josue Kouka
+1439881042
+:100755 100755 c324c7a... ed924f4... M	tests/tests.py
+
+user:Josue Kouka
+1439886645
+:100755 100755 af6792a... fa8d757... M	myql/myql.py
+
+user:Josue Kouka
+1439886691
+:100755 100755 ed924f4... 564ad0c... M	tests/tests.py
+
+user:Josue Kouka
+1439889121
+:100755 100755 564ad0c... a005531... M	tests/tests.py
+
+user:Josue Kouka
+1439889484
+:100755 100755 fa8d757... 6a26bf2... M	myql/myql.py
+:100755 100755 a005531... a61ae9e... M	tests/tests.py
+
+user:Josue Kouka
+1439899825
+:000000 100755 0000000... 23897d4... A	myql/logger.py
+:100755 100755 6a26bf2... 6d73238... M	myql/myql.py
+:100755 100755 a61ae9e... 6f2266d... M	tests/tests.py
+
+user:Josue Kouka
+1439900572
+:100755 100755 6d73238... b3f3c98... M	myql/myql.py
+
+user:Josue Kouka
+1439901975
+:100755 100755 b3f3c98... 6f4258a... M	myql/myql.py
+
+user:Josue Kouka
+1439903116
+:100755 100755 6f4258a... ca71d8c... M	myql/myql.py
+:100755 100755 6f2266d... 4b191fd... M	tests/tests.py
+
+user:Josue Kouka
+1439903985
+:100755 100755 4b191fd... 52dbd38... M	tests/tests.py
+
+user:Josue Kouka
+1439904648
+:100755 100755 92258e5... c1032c4... M	myql/errors.py
+:100755 000000 23897d4... 0000000... D	myql/logger.py
+
+user:Josue Kouka
+1439908193
+:100755 100755 ca71d8c... 06cb556... M	myql/myql.py
+
+user:Josue Kouka
+1439911388
+:100755 100755 52dbd38... 01692da... M	tests/tests.py
+
+user:Josue Kouka
+1439925662
+:100755 100755 06cb556... efceccb... M	myql/myql.py
+
+user:Josue Kouka
+1440016051
+:100644 100644 3f2f882... 8f140d9... M	mkdocs.yml
+
+user:Josue Kouka
+1440070761
+:100755 100755 efceccb... 177fb8e... M	myql/myql.py
+:100755 100755 01692da... 43a11d8... M	tests/tests.py
+
+user:Josue Kouka
+1440074542
+:100755 100755 177fb8e... 3ae38b2... M	myql/myql.py
+
+user:Josue Kouka
+1440074567
+:100755 100755 b7fc40f... 8bb6ff0... M	README.md
+:100644 100644 1a7af9c... a5a7ca2... M	docs/index.md
+:100644 100644 3b9593d... 44e0009... M	docs/myql.md
+:100644 100644 ad2a5c9... 8e25358... M	docs/oauth.md
+
+user:Josue Kouka
+1440076439
+:100644 100644 a5a7ca2... 49ce8bd... M	docs/index.md
+:100644 100644 44e0009... 3dc1ece... M	docs/myql.md
+
+user:Josue Kouka
+1440077529
+user:Josue Kouka
+1440141443
+:100755 100755 8bb6ff0... b923789... M	README.md
+:100644 100644 fd727b2... 3fab26d... M	README.rst
+:100644 100644 49ce8bd... 5d9fcab... M	docs/index.md
+
+user:Josue Kouka
+1440165189
+user:Josue Kouka
+1440309747
+:100755 100755 3ae38b2... e382406... M	myql/myql.py
+
+user:Josue Kouka
+1440326477
+:100755 100755 43a11d8... e26e6e0... M	tests/tests.py
+
+user:Josue Kouka
+1440326488
+user:Josue Kouka
+1440326669
+:100755 100755 83e490c... e82056d... M	myql/__init__.py
+:100755 100755 1057c89... 1cf8472... M	setup.py
+
+user:Josue Kouka
+1440328016
+user:Josue Kouka
+1440329558
+:100755 100755 b923789... 8263ab1... M	README.md
+
+user:Josue Kouka
+1440329954
+:100644 100644 3fab26d... 54c0553... M	README.rst
+
+user:Josue Kouka
+1440330370
